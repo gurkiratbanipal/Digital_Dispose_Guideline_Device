@@ -1,0 +1,125 @@
+Introduction:
+
+Canada is the nation of immigrants. People come here from different countries. As every nation have their own rules and
+regulation, their way to deal with waste are also different. So, when they commute to Canada, they are unaware of waste 
+sorting plan in Canadian community. A research shows that each year Canada is producing nearly 31 million tones of garbage,
+and among all the other country’s waste per capita of the world this is highest. Along with reducing the amount of waste 
+Canadian waste management also imposing the idea of sorting of waste, so people are provided with multiple coloured bins 
+to put waste according to type of material. But because of lack of awareness individuals are unable to meet the expectation
+of waste management community.
+Although municipal communities are putting efforts to solve this problem by assigning volunteer and providing booklets to
+each and every house yearly, so that each person can read and understand about the way they are supposed to deal with the
+different types of garbage. But the idea of providing booklets to citizens is not that successful as today’s hectic 
+schedules had left with no time for people to read those booklets and understand about managing with different types of
+wastages. People don’t go through all the contents provided in the waste management book, so they didn’t get enough 
+knowledge and ends up throwing recyclable stuff in garbage after scratching their heads for a while. Ultimately, all
+the garbage including recyclable stuff goes to landfill, which leads to produce large amount of methane that contributes
+to greenhouse gasses more than emission of carbon dioxide. Also, sometimes individuals threw garbage stuff into recycle 
+bins or kitchen waste bins that requires tough sorting in the end. This action not only effects environment but money and
+resources too, as municipalities spend huge amount of money to handle these wastes. 
+In this era of technology, we are surrounded with smart gadgets all around. But unfortunately, we do not have any gadget 
+that can provide us information about sorting of garbage, recycle and kitchen waste stuff. Even though we are in 21st century
+but for this specific thing people are still dependent on those conventional way of using paper books to get information about
+different kind of wastes which are delivered to each house every year by the waste management departments. So, we decided to 
+make a digital device that will get rid of those paper books, the “Smart waste management device” that will help people to get
+information about sorting of different kind of waste. This device will help people to put the garbage according to the assigned
+bins in a smart digital way rather than going through those long community waste management books. Therefore, there will be 
+less amount of waste to pickup and by this way municipalities can save money as they don’t have to sort that garbage from the
+recycle waste stuff and vice versa. 
+
+Thus, this idea of using smart waste management device is going to be more easy and benificial for both people and municipal
+corporations. Also, we will be making our environment safe and healthy by so many ways like we will be saving a lot of paper
+as we do not those heavy and long traditional books.
+
+Description
+
+The Smart waste management device will be a digital copy that will consist community waste management guidelines and will 
+guide user digitally about the different types of stuff and in which bin that particular stuff has to go after being used 
+by the person.
+So, this device will consist of a processor that will be a Beaglebone black in this case and the user will be interacting 
+with the device by a touch screen that will be a 7-inch touch display. Beaglebone black will be connected with the 7-inch 
+LCD screen through the GPIO pins and LCD cape. The LCD cape will connect to beaglebone black like a shield over the GPIO 
+pins. The beaglebone will be loaded with the latest image through a SD card. Also, beaglebone black will be connected with
+a wi-fi adapter that will provide the internet connection to the beaglebone black.
+The Newhaven Display 7" Beaglebone Capes are specifically designed for the Beaglebone Black boards. The product line features
+three capes, each mounted to either a standard, premium, or sunlight-readable 7" Newhaven Display TFT.
+Components required:
+    1) Beaglebone black
+    2) Newhaven 7-inch LCD Cape
+    3) Wi-fi adapter
+    4) SD card
+    5) 5V power supply adapter
+
+Procedure:
+
+First of all, the beaglebone black has to be loaded with the latest image which can be done by following ways:
+We have two versions available: 1. Run image directly from Micro Sd card
+    • Firstly, we will download the image file. This should be in the format of BBB-eMMC-flasher-distro-year.month.day.img.xz.
+    • After successfully extracting the .xz file, insert the micro Sd card in computer and start disk image tool. It should be
+      with storage capacity of 4GB or higher.
+    • Our computer will not detect the SD card if we start disk image tool before inserting SD card.
+    • In linux, balenaEtcher helps to write the .img file to Sd card. The time for this task will vary according to speed of
+      writer and card and the type of distribution. 
+    • At the end we will have a micro Sd card with image to flash eMMc of BBB.
+2. Writing flasher image to on board eMMc of Beaglebone black
+    • For this version we need a Sd card with Flasher Linux image.
+    • Power of BBB by just disconnecting USB of 5V power supply and insert the micro Sd card in the slot.
+    • On the top right of BBB, there is button for booting, hold it and connect BBB with USB for power.
+    • Don’t release the button till the LEDs start flashing. These LEDs should flash in sequence for 5-25 mins.
+    • Disconnect the power supply and restart BBB with S2 button.
+    • Don’t forget to remove the SD card from BBB.
+    • Lastly press S3 button to power on board, there you will see the latest image.
+    
+After uploading the latest image to the beaglebone black the next step is to connect the beaglebone with the 7-inch LCD Cape.
+This could be done by connecting the beaglebone GPIO pins to the pins of LCD cape. Both beaglebone and LCD cape had equal 
+number of pins and are designed to be connected to each other. The layout of pins is same on both beaglebone and LCD screen
+so connecting LCD cape will be same as we connect a shield device to the beaglebone.
+Once the beaglebone and 7-inch LCD cape are connected physically, then next step is to connect both of these devices through
+drivers and make them interact with each other. This could be done by following ways:
+Here we are using a capacitive touch display, so we need to use graphical interface as this doesn’t work in the command line
+directly. For activating graphical interface, we will use Linux command line text editors and make some modifications to 
+the/boot/uEnv.txt file. VI, Vim and Nano.
+Following command will be used for command line text editor, Nano.
+    • Sudo nano/boot/uEnv.txt - to open the file which we are going to edit.
+    • Sudo cp/boot/uEnv-Backup.txt - to create the backup of file before editing.
+Disable the HDMI interface that can interfere with some pins to LCD cape. To do so we will change the following lines in 
+uNv.txt file-
+## Beaglebone Black dtb’s for v4.1.x
+## Beaglebone Black: HDMI(Audio/Video) disabled:
+dtb=am335x-boneblack-emmc-overlay.dtb
+## Beaglebone Black: eMMC disabled:
+dtb=am335x-boneblack-hdmi-overlay.dtb
+## Beaglebone Black: HDMI Audio/eMMC disabled:
+dtb=am335x-boneblack-nhdmi-overlay.dtb
+## Beaglebone Black: HDMI (Audio/Video)/eMMC disabled:
+dtb=am335x-boneblack-overlay.dtb
+## Beaglebone Black: wl1835
+dtb=am335x-boneblack-wl1835mod.dtb
+## Beaglebone Black:replicape
+dtb=am335x-boneblack- replicape.dtb
+
+When the beaglebone and LCD get connected to each other the next step is to connect the beaglebone to the internet. This will
+be done by connecting a wi-fi adapter to the beaglebone. Once the adapter is connected physically then we have to get the 
+internet working over beaglebone, which will be done by following steps:
+    • First of all, login as root in the terminal window.
+    • To see the status of wireless connection, type 
+#connmanctl technologies
+The status for Bluetooth, p2p and Wi-Fi will pop up as in following image-
+
+    • In root write #connmanctl  
+    • To get Wi-Fi working write the command
+connmanctl > enable wifi
+connmanctl > scan wifi
+    • To see the available networks and connecting with one of the use- 
+connmanctl > services
+connmanctl >agent on
+connmanctl >connect (enter the value of network to which we are going to connect)
+    • For configuring IP address 
+connmanctl >config (value of network same as above) --ipv4 manual(specify IP address for BBB) (write netmask) (IP address of 
+router) – name server 8.8.8.8
+    • quit from here and write #ping www.google.com to see if it is working.
+
+Sending text messages through the beaglenbone internet to the mobiole phone. This will be done through following steps:
+
+We will write a node.js program for web interfacing. In our Beagle bone black we will use apache server to serve web services 
+on board. Node.js will be constantly connected with web page provided with an interactive web page through web socket. 
