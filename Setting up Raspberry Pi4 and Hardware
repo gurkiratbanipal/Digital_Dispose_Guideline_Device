@@ -1,0 +1,40 @@
+## Components Required-
+
+1.Raspberry pi 4
+2. HDMI Display
+3.Micro HDMI to HDMI Cable
+4.USB Keyboard
+5.PC
+6. Micro SD card
+7.USB to Type C cable
+
+
+## Steps to set-up Rpi
+
+1. First of all, we formatted our SD card using SD card formatter tool, that can be download from sdcard.org.
+
+2. To install Raspberry Pi Operating system, we used NOOBS (New out of box system). This is available on Raspberrpi.org. Downloaded file
+   was in zip format so we first uncompressed the file and then copy all the files from uncompressed file to SD card. Thus, our Sd card 
+   was prepared to use to install Raspberry Pi operating system.
+   
+3. After inserting the micro SD card to raspberry Pi 4’s SD card socket.
+
+4. When we checked all the connections (power supply to Raspberry Pi, R pi to mouse, keyboard and HDMI), it’s the time to start R pi,
+   it took a little to start the screen, then a dialog box of NOOBS installer appeared. It gave us two options from which we selected 
+   install Raspbian. 
+   
+5. When the installation was done, we clicked ok to reboot and load the Raspbian Operating system.
+
+6. Then we selected the time zone and preferred language.
+
+7. Choose the Wi-Fi network which we are going to use and entered the password to use the internet service on raspberry pi.
+
+8. Since we are using a touchscreen display for our project, we set up the virtual keyboard in this, so that we don’t need 
+   the USB keyboard anymore. To do this we have used following commands in Terminal window of Raspberry Pi-
+   -sudo apt-get update
+   -sudo apt-get upgrade
+   -sudo apt-get install matchbox-keyboard
+   -sudo reboot
+     We assed the virtual keyboard from Menu-Accessories-Keyboard.
+
+9. We did some change in appearance of home screen but these were optional. :-)
