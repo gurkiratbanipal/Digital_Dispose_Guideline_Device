@@ -9,7 +9,7 @@
 7.USB to Type C cable
 
 
-## Steps to set-up Rpi
+## Steps to set-up Raspberri pi
 
 1. First of all, we formatted our SD card using SD card formatter tool, that can be download from sdcard.org.
 
@@ -29,7 +29,7 @@
 
 7. Choose the Wi-Fi network which we are going to use and entered the password to use the internet service on raspberry pi.
 
-8. Since we are using a touchscreen display for our project, we set up the virtual keyboard in this, so that we don’t need 
+8. As, we are using a touchscreen display for our project, we set up the virtual keyboard in this, so that we don’t need 
    the USB keyboard anymore. To do this we have used following commands in Terminal window of Raspberry Pi-
    -sudo apt-get update
    -sudo apt-get upgrade
