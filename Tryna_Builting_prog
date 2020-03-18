@@ -28,8 +28,23 @@ namespace Win_Forms_demo
         {
             MessageBox.Show("You are almost there!", "Lets Start Learning ;-)");
         }
-         private void button1_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Thank You", "YES");
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Suggestion", "NO");
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("Reviews");
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+        
             Application.Exit();
         }
 
