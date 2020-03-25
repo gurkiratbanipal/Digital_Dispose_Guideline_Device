@@ -57,3 +57,27 @@ namespace Final_Rasp
             }
             
         }
+        private void q1c1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (q1c1.Checked == true)
+            {
+                 
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (q2c2.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+            else if (q2c1.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+            else if (q2c3.Checked == true)
+            {
+                MessageBox.Show("You are Right!");
+            }
+        }
+
