@@ -3,7 +3,8 @@
 #Components required for making this project
 
 Raspberry pi 4 model B.
-Two 7 inch IPS Capacitive Touch screen displays.
-A Lithium Polymer battery(11.1V,3000Mah)
+Two 7 inch IPS Capacitive Touch screen displays
+Power Bank
+USB type C to Micro USB Adapter
 Pololu Step down regulator(5V, 5A)
 Two HDMI to micro HDMI cables( to connect displays with raspberry pi 4)
