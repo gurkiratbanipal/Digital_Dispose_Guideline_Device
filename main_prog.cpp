@@ -111,4 +111,19 @@ namespace Final_Rasp
                 MessageBox.Show("You are Wrong");
             }
         }
+  private void button5_Click(object sender, EventArgs e)
+        {
+            if (q5c2.Checked == true)
+            {
+                MessageBox.Show("You are Right!");
+            }
+            else if (q5c1.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+            else if (q5c3.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+        }
 
