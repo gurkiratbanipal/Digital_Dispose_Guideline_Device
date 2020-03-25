@@ -80,4 +80,35 @@ namespace Final_Rasp
                 MessageBox.Show("You are Right!");
             }
         }
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (q3c2.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+            else if (q3c1.Checked == true)
+            {
+                MessageBox.Show("You are Right!");
+            }
+            else if (q3c3.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (q4c2.Checked == true)
+            {
+                MessageBox.Show("You are Right!");
+            }
+            else if (q4c1.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+            else if (q4c3.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+        }
 
