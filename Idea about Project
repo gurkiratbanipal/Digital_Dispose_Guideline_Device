@@ -46,8 +46,8 @@ We can interact with 2 screens at a time as there are 2 ports of Micro HDMI in t
 Components required:
     1) Raspberry pi 4 model B.
     2) Two 7 inch IPS Capacitive Touch screen displays.
-    3) A Lithium Polymer battery(11.1V,3000Mah)
-    4) Pololu Step down regulator(5V, 5A)
+    3) Power Bank
+    4) Battery Charger
     5) Two HDMI to micro HDMI cables( to connect displays with raspberry pi 4)
     6) Charging adapter for the battery
 
@@ -84,9 +84,9 @@ Procedure:
 
 #Powering_up_the_gadget
 
-1. To power up Raspberry pi and two touch screen displays, we need a battery and a voltage regulator. As, we are using 2 screens so there should be a lithium polymer battery required, having capacity (11.1V,3000Mah).
-2. To step down the power we will use a regulator so that our device will get the needed amount of power. Then, we connect output pins of the battery with input pins of regulator(VIN, GND) 
-   After that Raspberry pi can be connected to the output pins of regulator (VOUT, GND). 
+1.To power up the set-up we are going to use simple power bank that we use on our daily basis for charging mobile phones or other small
+   electronic gadgets. 
+   2. The regular mobile charger with USB will be good enough to Charge the power bank.
    
 
 
