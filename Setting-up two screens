@@ -1,0 +1,4 @@
+#Process to run two HDMI LCD Screens using Raspberry Pi4
+
+#At the begining, we have used only one screen during the insallation of Resbian Operating System. While in our project we are going to use
+two screens, so, our next step to get both the screens running simultaneously.
