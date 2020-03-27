@@ -170,6 +170,21 @@ private void button6_Click(object sender, EventArgs e)
                 MessageBox.Show("You are Wrong");
             }
         }
+private void button9_Click(object sender, EventArgs e)
+        {
+            if (q9c2.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+            else if (q9c1.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+            else if (q9c3.Checked == true)
+            {
+                MessageBox.Show("You are Right!");
+            }
+        }
 
 
 
