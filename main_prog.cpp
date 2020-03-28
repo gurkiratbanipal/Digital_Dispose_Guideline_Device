@@ -230,35 +230,3 @@ private void button11_Click(object sender, EventArgs e)
                 MessageBox.Show("Yes, This type of waste are not acceted by Toronto Waste Management");
             }
         }
-        private void button12_Click(object sender, EventArgs e)
-        {
-            if (q12c2.Checked == true)
-            {
-                MessageBox.Show("You are Wrong");
-            }
-            else if (q12c1.Checked == true)
-            {
-                MessageBox.Show("You are Wrong");
-            }
-            else if (q12c3.Checked == true)
-            {
-                MessageBox.Show("Yes, This type of waste are not acceted by Toronto Waste Management");
-            }
-        }
-        private void button13_Click(object sender, EventArgs e)
-        {
-            if (q13c2.Checked == true)
-            {
-                MessageBox.Show("You are Right!");
-            }
-            else if (q13c1.Checked == true)
-            {
-                MessageBox.Show("You are Wrong");
-            }
-            else if (q13c3.Checked == true)
-            {
-                MessageBox.Show("You are Wrong");
-            }
-        }
-
-
