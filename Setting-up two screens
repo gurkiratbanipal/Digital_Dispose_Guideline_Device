@@ -17,3 +17,9 @@ Steps to connect two screen to Raspberry pi4:
 
 6. Raspberry will start booting up.
     (Its important to connect both screens while booting up.)
+    
+7. If you connect only one screen while boting and connect second screen after the boot up then it won't work.
+
+8. Once booting is done, both screen will turn on and will ask you to do few settings like setting up time,display options etc.
+
+9. Now you are all set to operate raspberry pi 4 with two screens.
