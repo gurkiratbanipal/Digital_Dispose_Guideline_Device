@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;// contains interfaces and classes that define generic collections
 using System.ComponentModel;//defines classes that are used to implement the run-time and design-time behavior
 using System.Data;//provide access to classes
-using System.Drawing;
-using System.Linq;
-using System.Text;
+using System.Drawing;//to access to GDI+ basic graphics functionality
+using System.Linq;//to retrieve data from different sources and formats
+using System.Text;//classes that represent ASCII and Unicode character encodings
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
