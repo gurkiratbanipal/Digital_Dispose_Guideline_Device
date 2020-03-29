@@ -4,18 +4,18 @@ Basic commands used for some updates:
 1. sudo apt-get update
 2. sudo apt-get upgrade
 
-After upgrading some basic installation will be needed:
+After upgrading installation will be done for that type:
 
 sudo apt-get install build-essentials
 
-
 Now download linaro from website-  www.linaro.org and install:
 
+Open terminal window and go to the Downloads folder.
 cd Downloads/
 
-Extract the file:
+Extract the file with following command:
 sudo tar -xvf gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf.tar.xz
 
-Install:
+ After installation is done, type:
 
 sudo apt-get install gcc-arm-linux-gnueabihf
