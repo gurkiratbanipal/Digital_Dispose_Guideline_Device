@@ -5,8 +5,8 @@ using System.Data;//provide access to classes
 using System.Drawing;//to access to GDI+ basic graphics functionality
 using System.Linq;//to retrieve data from different sources and formats
 using System.Text;//classes that represent ASCII and Unicode character encodings
-using System.Threading.Tasks;
-using System.Windows.Forms;
+using System.Threading.Tasks;//Represents an asynchronous operation
+using System.Windows.Forms;//Represents a window which makes an application's user interface
 
 namespace Final_Rasp
 {
