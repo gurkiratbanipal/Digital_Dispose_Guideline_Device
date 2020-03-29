@@ -1,4 +1,19 @@
 #Process to run two HDMI LCD Screens using Raspberry Pi4
 
-#At the begining, we have used only one screen during the insallation of Resbian Operating System. While in our project we are going to use
-two screens, so, our next step to get both the screens running simultaneously.
+#At the begining, we have used only one screen during the insallation of Resbian Operating System adn then did few experiments to make our project and display over screen.
+While in our project we are going to use two screens so, our next step was to get both the screens running simultaneously.
+
+Steps to connect two screen to Raspberry pi4:
+
+1. First one Screen is connected to Raspberry pi4's microHDMI Port0 through a microHDMi to HDMI cable.
+
+2. Then second Screen is connected to Raspberry pi4's microHDMI Port1 through a microHDMi to HDMI cable.
+
+3. Both screen are connected to power supply.
+
+4. Then a microSD card with a raspbian image is conneceted to raspberry pi microSD card slot.
+
+5. Then Power supply is connected to raspberry pi 4.
+
+6. Raspberry will start booting up.
+    (Its important to connect both screens while booting up.)
