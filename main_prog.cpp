@@ -245,3 +245,18 @@ private void button11_Click(object sender, EventArgs e)
                 MessageBox.Show("You are Wrong");
             }
         }
+        private void button14_Click(object sender, EventArgs e)
+        {
+            if (q14c2.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+            else if (q14c1.Checked == true)
+            {
+                MessageBox.Show("You are Right!");
+            }
+            else if (q14c3.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+        }
