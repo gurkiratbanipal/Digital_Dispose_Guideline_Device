@@ -1,0 +1,10 @@
+#Use following steps-:
+
+-Create new project
+-Enter the name of your Project
+-There will the options for which type of program you are going to do, choose one.
+-Select Cross GCC as your toolchain
+-Enter arm-linux-gnueabihf for cross compiler prefix
+-Choose the path to /usr/bin(cross compiler path)
+-Write your program
+-And finally Run it. YOU will get the Result.
