@@ -1,0 +1,27 @@
+# We have followed following steps-
+$sudo apt install build-essential git
+$ git clone https://github.com/raspberrypi/tools.git
+$cd tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/
+$ls -l *g++
+
+ $nano hello.cpp
+ $more hello.cpp 
+ // we wrote simple hello world program for just testing.
+   
+   /tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/arm-linux-gnueabihf-g++ testrpi.cpp -o testrpi
+$ls -l testrpi*
+$./hello
+$sftp pi@erpi.local
+      //enter the password for rpi.
+      
+ $put hello
+ $bye
+      
+ #to check its working properly or not-
+ $ssh pi@erpi.local
+ $ls -l testrpi
+ $./testrpi
+ 
+ #path updation
+  $source ~/.bashrc
+  $echo $PATH
