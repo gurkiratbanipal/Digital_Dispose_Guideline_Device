@@ -15,7 +15,9 @@
 
 2. To install Raspberry Pi Operating system, we used NOOBS (New out of box system). This is available on Raspberrpi.org. Downloaded file
    was in zip format so we first uncompressed the file and then copy all the files from uncompressed file to SD card. Thus, our Sd card 
-   was prepared to use to install Raspberry Pi operating system.
+   was prepared to use to install Raspberry Pi operating system. (*There is one other option of NOOBS Lite available on the same website. 
+   It has OS installer W/O Rasbian preloaded. It will prove the same seletion menu when we start rasberry Pi after inserting the SD card 
+   loaded with NOOBS Lite. Rasbian and other images will be downloaded and installed at that time)
    
 3. After inserting the micro SD card to raspberry Pi 4’s SD card socket.
 
