@@ -1,53 +1,41 @@
-#Program
-
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+#include "smarttrash.h"
 
 namespace Win_Forms_demo
 {
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
-            InitializeComponent();
-        }
-       
-        private void label1_Click(object sender, EventArgs e)
-        {
-            Console.WriteLine("Smart Trash Book");
-        }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("You are almost there!", "Lets Start Learning ;-)");
-        }
-        private void button3_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Thank You", "YES");
-        }
+	Form1::Form1()
+	{
+		InitializeComponent();
+	}
 
-        private void button4_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Suggestion", "NO");
-        }
+	void Form1::label1_Click(std::any sender, EventArgs *e)
+	{
+		std::cout << "Smart Trash Book" << std::endl;
+	}
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-            Console.WriteLine("Reviews");
-        }
-        private void button1_Click(object sender, EventArgs e)
-        {
-        
-            Application.Exit();
-        }
+	void Form1::button2_Click(std::any sender, EventArgs *e)
+	{
+		MessageBox::Show("You are almost there!", "Lets Start Learning ;-)");
+	}
 
-        
-    }
+	void Form1::button3_Click(std::any sender, EventArgs *e)
+	{
+		MessageBox::Show("Thank You", "YES");
+	}
+
+	void Form1::button4_Click(std::any sender, EventArgs *e)
+	{
+		MessageBox::Show(L"Suggestion", "NO");
+	}
+
+	void Form1::label2_Click(std::any sender, EventArgs *e)
+	{
+		std::cout << "Reviews" << std::endl;
+	}
+
+	void Form1::button1_Click(std::any sender, EventArgs *e)
+	{
+
+		Application::Exit();
+	}
 }
