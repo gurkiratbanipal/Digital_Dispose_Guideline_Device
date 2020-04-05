@@ -45,7 +45,7 @@ namespace Final_Rasp
         {
             if (q1c2.Checked == true)
             {
-                MessageBox.Show("You are Right!");
+                MessageBox.Show("You are Right! Throw your empty glass into black bin");
             }
             else if (q1c1.Checked == true)
             {
@@ -77,7 +77,7 @@ namespace Final_Rasp
             }
             else if (q2c3.Checked == true)
             {
-                MessageBox.Show("You are Right!");
+                MessageBox.Show("You are Right! Throw napkins into your kitchen's bin");
             }
         }
         private void button3_Click(object sender, EventArgs e)
@@ -88,7 +88,7 @@ namespace Final_Rasp
             }
             else if (q3c1.Checked == true)
             {
-                MessageBox.Show("You are Right!");
+                MessageBox.Show("You are Right! Throw empty water bottle into recycle bin");
             }
             else if (q3c3.Checked == true)
             {
@@ -100,7 +100,7 @@ namespace Final_Rasp
         {
             if (q4c2.Checked == true)
             {
-                MessageBox.Show("You are Right!");
+                MessageBox.Show("You are Right! Throw bubble wrap into black bin");
             }
             else if (q4c1.Checked == true)
             {
@@ -115,7 +115,7 @@ namespace Final_Rasp
         {
             if (q5c2.Checked == true)
             {
-                MessageBox.Show("You are Right!");
+                MessageBox.Show("You are Right! Carefully throw glass into black bin");
             }
             else if (q5c1.Checked == true)
             {
@@ -134,7 +134,7 @@ private void button6_Click(object sender, EventArgs e)
             }
             else if (q6c1.Checked == true)
             {
-                MessageBox.Show("You are Right!");
+                MessageBox.Show("You are Right! Throw empty polythene bag into blue bin");
             }
             else if (q6c3.Checked == true)
             {
@@ -253,7 +253,7 @@ private void button11_Click(object sender, EventArgs e)
             }
             else if (q14c1.Checked == true)
             {
-                MessageBox.Show("You are Right!");
+                MessageBox.Show("You are Right! This Greeting card belongs to blue bin");
             }
             else if (q14c3.Checked == true)
             {
@@ -264,7 +264,7 @@ private void button15_Click(object sender, EventArgs e)
         {
             if (q15c2.Checked == true)
             {
-                MessageBox.Show("You are Right!");
+                MessageBox.Show("You are Right!Your used clothes belongs to black bin");
             }
             else if (q15c1.Checked == true)
             {
@@ -279,7 +279,7 @@ private void button15_Click(object sender, EventArgs e)
         {
             if (q16c2.Checked == true)
             {
-                MessageBox.Show("You are Right!");
+                MessageBox.Show("You are Right! Your non-working TV remote work belongs to black bin");
             }
             else if (q16c1.Checked == true)
             {
