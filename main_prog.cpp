@@ -320,3 +320,18 @@ private void button15_Click(object sender, EventArgs e)
                 MessageBox.Show("You are Wrong");
             }
          }
+          private void button19_Click(object sender, EventArgs e)
+        {
+            if (q19c2.Checked == true)
+            {
+                MessageBox.Show("You are Right");
+            }
+            else if (q19c1.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+            else if (q19c3.Checked == true)
+            {
+                MessageBox.Show("You are Wrong");
+            }
+         }
