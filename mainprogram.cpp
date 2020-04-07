@@ -97,5 +97,28 @@ int main()
 	   	 cout << "You was supposed to write Black, Blue or Green"<< endl;
 	   	 cout << "NO! Correct answer is Blue Bin"<< endl;
 	     }
+//QUESTION#4//
 
+	cout<< endl;
+	cout <<"Which Bin is Paper Napkin belongs to? "<< endl;
+	cout <<"Black, Blue or Green Bin?"<< endl;
 
+ 	getline(cin, response);
+
+ 	if (response == "Green")
+ 	{
+ 		cout << "YES!! You are right"<< endl;
+ 	}
+ 	else if (response == "Black")
+ 	{
+ 		cout << "NO! Correct answer is Green Bin"<< endl;
+ 	}
+ 	else if (response == "Blue")
+ 	{
+ 		cout << "NO! Correct answer is Green Bin"<< endl;
+ 	}
+ 	else
+ 	{
+  		cout << "You was supposed to write Black, Blue or Green"<< endl;
+  		cout << "NO! Correct answer is Green Bin"<< endl;
+ 	}
