@@ -1,1 +1,25 @@
+##Setting up Eclipse for threads##
 
+Step#1
+Go to Project -> Properties -> C/C++ Build -> Settings
+In the Language Standard drop down box, 
+select: "ISO C++11 (-std=c++0x)"
+and then apply changes.
+
+Step#2
+Go to Project -> Properties -> C/C++ General -> Paths and Symbols.
+Select the Libraries tab,
+click Add and type: "pthread"
+and then apply changes.
+
+Step#3
+Go to Window -> Preferences -> C/C++ -> Build -> Settings
+Select the Discovery tab, and then click CDT GCC Built-in Compiler Settings.
+Append -std=c++11 in box at bottom
+and then apply changes.
+
+Step#4
+Go to Project -> Index -> Rebuild.
+
+And That's it!!
+You are good to write code with pthreads.......
