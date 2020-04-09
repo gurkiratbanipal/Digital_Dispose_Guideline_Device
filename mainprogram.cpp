@@ -9,7 +9,16 @@
 #include <fstream>
 #include <string>
 #include <iostream>
+#include <pthread.h>
+
 using namespace std;
+
+void *threadFunction1(void *value)
+{
+	int *x = (int *)value;
+	cout<< "implementing pthreads.......";
+}
+
 
 int main()
 {
