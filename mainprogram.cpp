@@ -251,3 +251,29 @@ int main()
 		cout << "Correct answer is Black Bin"<< endl;
 	}
 
+//QUESTION#10//
+
+	cout<< endl;
+ 	cout <<"Which Bin is Vegetables belongs to? "<< endl;
+	cout <<"Black, Blue or Green Bin?"<< endl;
+
+	getline(cin, response);
+
+	if (response == "green")
+	{
+		cout << "YES!! You are right"<< endl;
+	}
+	else if (response == "black")
+	{
+		cout << "NO! Correct answer is Green Bin"<< endl;
+	}
+	else if (response == "blue")
+	{
+		cout << "NO! Correct answer is Green Bin"<< endl;
+	}
+	else
+	{
+		cout << "You was supposed to write Black, Blue or Green"<< endl;
+		cout << "Correct answer is Green Bin"<< endl;
+  	}
+
