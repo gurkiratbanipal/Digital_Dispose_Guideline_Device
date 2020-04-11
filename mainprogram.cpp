@@ -22,6 +22,17 @@ void *threadFunction1(void *value)
 
 int main()
 {
+	
+    pthread_t thread;
+
+    if(pthread_create(&thread, NULL, &threadFunction1, NULL)!=0)
+
+    {
+        	printf("Failed to create the thread\n");
+        	return 1;
+    }
+
+	
 	cout << "Garbage book" << endl;
 	cout << "All text....." << endl<< endl<< endl;
 
