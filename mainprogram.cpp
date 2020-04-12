@@ -421,7 +421,34 @@ int main()
 	{
 		cout << "You was supposed to write Black, Blue or Green"<< endl;
 		cout << "NO! Correct answer is Black Bin"<< endl;
+        }
+	
+	
+//QUESTION#15//
+	cout<< endl;
+ 	cout <<"Which Bin is Alluminium Foil can belongs to? "<< endl;
+ 	cout <<"Black, Blue or Green Bin?"<< endl;
+
+	getline(cin, response);
+
+	if (response == "black")
+	{
+		cout << "YES!! You are right"<< endl;
 	}
+	else if (response == "blue")
+	{
+		cout << "NO! Correct answer is Black Bin"<< endl;
+	}
+	else if (response == "green")
+	{
+		cout << "NO! Correct answer is Black Bin"<< endl;
+	}
+	else
+	{
+		cout << "You was supposed to write Black, Blue or Green"<< endl;
+		cout << "NO! Correct answer is Black Bin"<< endl;
+	}
+
 
  	return 0;
 }
