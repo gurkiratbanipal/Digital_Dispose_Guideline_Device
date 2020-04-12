@@ -371,7 +371,32 @@ int main()
 		cout << "You was supposed to write Black, Blue or Green"<< endl;
 		cout << "NO! Correct answer is Blue Bin"<< endl;
 	}
+	
+//QUESTION#13//
 
+	cout<< endl;
+ 	cout <<"Where is constructon waste like cement is to be thrown? "<< endl;
+ 	cout <<"Black, Blue or Green Bin?"<< endl;
+
+	getline(cin, response);
+
+	if (response == "blue")
+	{
+		cout << "NO! You have to go to waste management site and dispose it off"<< endl;
+	}
+	else if (response == "black")
+	{
+		cout << "NO! You have to go to waste management site and dispose it off"<< endl;
+	}
+	else if (response == "green")
+	{
+		cout << "NO! You have to go to waste management site and dispose it off"<< endl;
+	}
+	else
+	{
+		cout << "NO! You have to go to waste management site and dispose it off"<< endl;
+	}
+	
  	return 0;
 }
 
