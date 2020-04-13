@@ -15,7 +15,19 @@ using namespace std;
 
 void *threadFunction1(void *value)
 {
-	cout<< "implementing pthreads.......";
+	 string line;
+	  ifstream myfile ("garbagebook.txt");
+	  if (myfile.is_open())
+	  {
+	    while ( getline (myfile,line) )
+	    {
+	      cout << line << '\n';
+	    }
+	    myfile.close();
+	  }
+
+	  else cout << "Unable to open garbage book";
+
 }
 
 void *threadFunction2(void *value)
