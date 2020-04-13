@@ -1,0 +1,2023 @@
+
+                                                            TABLE OF CONTENTS
+
+TABLE OF CONTENTS....................................................................................................................... 1
+
+DEFINITIONS............................................................................................................................. 3
+
+WASTE COLLECTION DESIGN STANDARDS MANUAL CHECKLIST .................................................................................... 11
+
+1.0 INTRODUCTION ...................................................................................................................... 14
+    1.1 General Information ........................................................................................................... 14
+    1.2 Eligibility for Waste Collection .............................................................................................. 14
+    1.3 Request to Commence Waste Collection Service .................................................................................. 15
+
+2.0 GENERAL DESIGN REQUIREMENTS ....................................................................................................... 16
+
+3.0 SINGLE DETACHED DWELLINGS, SEMI-DETACHED DWELLINGS, TOWNHOUSES AND MULTI-RESIDENTAL COMPLEXES UP TO SIX DWELLING UNITS ............ 16
+
+4.0 MULTI-RESIDENTIAL COMPLEXES WITH MORE THAN SIX DWELLING UNITS AND STACKED TOWNHOUSES ...............................................17
+    4.1 Design Requirements ........................................................................................................... 17
+        4.1.1 Garbage and Recycling Receptacle Requirements............................................................................ 18
+        4.1.2 Concealed Collection Point Requirements.................................................................................. 19
+        4.1.3 Waste Storage Room Requirements.......................................................................................... 20
+    4.2 Specific Requirements for Stacked Townhouses .................................................................................. 20
+
+5.0 MIXED USE BUILDINGS ............................................................................................................... 21
+
+6.0 BUSINESS IMPROVEMENT AREAS ........................................................................................................ 22
+
+7.0 INSTITUTIONAL DEVELOPMENTS ........................................................................................................ 23
+    7.1 Long-Term Care Institutions ................................................................................................... 23
+    7.2 Schools ....................................................................................................................... 24
+    7.3 Places of Worship ............................................................................................................. 24
+
+APPENDIX 1: WASTE COLLECTION VEHICLE ILLUSTRATIONS .............................................................................. 26
+APPENDIX 2: CUL-DE-SAC SPECIFICATIONS ........................................................................................... 30
+APPENDIX 3: “T” - TURNAROUND SPECIFICATIONS ..................................................................................... 31
+APPENDIX 4: INDOOR WASTE COLLECTION POINT SPECIFICATIONS ........................................................................ 32
+APPENDIX 5: CONCEALED COLLECTION POINT SPECIFICATIONS ........................................................................... 33
+APPENDIX 6: GARBAGE AND RECYCLING RECEPTACLE DIMENSIONS ......................................................................... 34
+APPENDIX 7: FRONT-END GARBAGE AND RECYCLING BINS ................................................................................ 35
+APPENDIX 8: CART DIMENSIONS ..................................................................................................... 36
+APPENDIX 9: WASTE COLLECTION POINT EXAMPLES ..................................................................................... 37
+APPENDIX 10: ACKNOWLEDGEMENT AND RELEASE FORM FOR PRIVATE PROPERTY WASTE COLLECTION ............................................. 38
+APPENDIX 12: BUSINESS IMPROVEMENT AREA BOUNDARIES ............................................................................... 44
+APPENDIX 12: BUSINESS IMPROVEMENT AREA BOUNDARIES ............................................................................... 45
+APPENDIX 12: BUSINESS IMPROVEMENT AREA BOUNDARIES ............................................................................... 46
+APPENDIX 12: BUSINESS IMPROVEMENT AREA BOUNDARIES ............................................................................... 47
+APPENDIX 12: BUSINESS IMPROVEMENT AREA BOUNDARIES ............................................................................... 48
+APPENDIX 12: BUSINESS IMPROVEMENT AREA BOUNDARIES ............................................................................... 49
+APPENDIX 13: SAMPLE DRAWING OF A STACKED TOWNHOUSE SITE PLAN THAT MEETS WASTE COLLECTION REQUIREMENTS ........................... 50
+APPENDIX 13: SAMPLE DRAWING OF A STACKED TOWNHOUSE SITE PLAN THAT MEETS WASTE COLLECTION REQUIREMENTS ........................... 51
+APPENDIX 14: SAMPLE DRAWING OF A MULTI-RESIDENTIAL SITE PLAN THAT MEETS WASTE COLLECTION REQUIREMENTS ........................... 52
+APPENDIX 15: SAMPLE DRAWING OF A MULTI-RESIDENTIAL SITE PLAN THAT MEETS WASTE
+             COLLECTION REQUIREMENTS (INDOOR WASTE STORAGE ROOM AND INDOOR COLLECTION POINT) .................................... 53
+APPENDIX 15: SAMPLE DRAWING OF A MULTI-RESIDENTIAL SITE PLAN THAT MEETS WASTE
+             COLLECTION REQUIREMENTS (INDOOR WASTE STORAGE ROOM AND INDOOR COLLECTION POINT) .................................... 54
+APPENDIX 16: SAMPLE DRAWING OF A MULTI-RESIDENTIAL SITE PLAN THAT MEETS WASTE 
+             COLLECTION REQUIREMENTS (INDOOR WASTE STORAGE ROOM AND CONCEALED COLLECTION POINT) ................................. 55
+
+                                                     
+
+
+
+                                                 REGION OF PEEL WASTE COLLECTION
+                                                       STANDARDS MANUAL
+
+Page #2
+
+DEFINITIONS
+The definitions set out below apply to this manual and are related to the Region of Peel’s Waste
+Collection By-law Number 35-2015.
+
+Agencies, Boards, Commissions and Departments (ABCDs): the buildings and facilities occupied
+by the Region and Area Municipalities including, but not limited to, City/Town Halls, recreation
+centres and libraries, etc., as well as those buildings occupied by the local conservation authorities,
+which receive Waste Collection as provided by the Region.
+Area Municipality(ies): the municipality of the City of Mississauga, the City of Brampton, or the
+Town of Caledon.
+Automated Collection Method: the collection of Waste or Waste from Carts using a Fully-Automated
+or Semi-Automated Waste Collection system and does not include the manual emptying of Carts.
+Biomedical Waste: human anatomical Waste, animal Waste, non-anatomical Waste, other Waste and
+cytotoxic Waste that is generated by:
+a) human health care and residential facilities; or
+b) animal health care facilities; or
+c) medical research and teaching establishments; or
+d) veterinary research and teaching establishments,
+and includes, but is not limited to, tissue, organs, body parts, blood and blood products, body fluids,
+human or animal cultures, stocks or specimens, live or attenuated viruses, cell lines, sharps and broken
+glass.
+Biweekly: the collection of specified Waste material Set-out at the Curbside for collection once every
+two weeks on the Scheduled Collection Days.
+Bulky Item: a household item, other than a White Good, which is larger than 1 metre (39 inches) in
+any one dimension or weighs in excess of 20 kilograms (44 pounds), including furniture of whatever
+size and weight as may be determined by the Commissioner of Public Works, and which also
+includes, but is not limited to, the items listed in Schedule “A” of the Waste Collection By-law.
+
+
+
+
+
+
+
+
+
+                                       REGION OF PEEL WASTE COLLECTION
+                                          DESIGN STANDARDS MANUAL
+
+
+Page #3
+
+Business Improvement Area (BIA): an area designated by municipal by-law under the Municipal
+Act, 2001 S.O. 2001, c.25, or any successor legislation, by the City of Mississauga, the City of
+Brampton, or the Town of Caledon, and which includes Dwelling Units and places of business as set
+out in the areas defined in Appendix 12 of this manual and Schedule “B” of the Waste Collection Bylaw.
+Cart: a container, approved by the Commissioner of Public Works, that is provided to Occupants by
+the Region and is designated for Fully-Automated or Semi-Automated Waste Collection and that
+remains the property of the Region throughout the life of the Cart.
+Collection Point: a location designated by the Commissioner of Public Works for the Set-out and
+collection of Bulky Items, Garbage, Source Separated Organics, Recyclable Materials, White Goods
+and Yard Waste, and which includes:
+a) a location abutting the property and as close as possible to the edge of the roadway,
+without obstructing the roadway or sidewalk and not extending beyond the frontage of the
+property;
+b) a Common Collection Area;
+c) a Concealed Collection Point; and
+d) an Indoor Collection Point.
+Commercial: a property used for retail or service establishments, commercial recreational purposes,
+entertainment purposes or offices, and which includes non-residential property and non-Institutional
+property.
+Commissioner: the Commissioner of Public Works for The Regional Municipality of Peel, or his or
+her designate, authorized to act on his or her behalf.
+Common Collection Area: a Collection Point shared by multiple occupants.
+Compactor: an appliance used to reduce the volume of Waste by applying force.
+Concealed Collection Point: a Collection Point with a permanent three-sided structure without a roof
+for the purpose of concealing externally-stored Waste, Front-End Bins, Carts and Bulky Items.
+Contractor: any individual, firm, company or corporation, and the employees of any such individual,
+firm, company or corporation, with whom the Region has entered into an agreement for the collection
+of Waste.
+Council: the Council of The Regional Municipality of Peel.
+Curbside Collection: the collection of Waste Set-out in a Garbage Cart, Recycling Cart or an
+Organics Cart from a Collection Point.
+Developer: a person who undertakes a Development.
+Development: the construction, erection or placing of one or more buildings or structures on land, or
+the making of an addition or alteration to a building or structure that has the effect of substantially
+increasing the size or usability thereof, or the laying out and establishment of a Commercial parking lot
+or of sites for the location of three or more trailers as defined in subsection 164 (4) of the Municipal
+Act, 2001.
+
+
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                STANDARDS MANUAL
+
+
+Page #4
+
+Dwelling Unit: a place of residence designed, or intended, for habitation by one or more persons with
+its own culinary and sanitary facility(ies), which are provided for the exclusive use of the person or
+persons who reside therein and includes Live-Work Units.
+Fiveplexes: a structure of five co-joined Dwelling Units.
+Fourplexes: a structure of four co-joined Dwelling Units.
+Front-End Bin(s):
+a) a fully covered, water-tight metal container with a lid capable of being locked to the
+   body of the container and with a capacity of no less than 1.5 cubic metres (2 cubic
+   yards) and no greater than 4.5 cubic metres (6 cubic yards), which is compatible with
+   the Region’s Contractors’ Waste Front-End Collection vehicles; or
+b) such other containers, in good working order as determined by the Commissioner to
+   be acceptable for setting out Recyclable Materials or Garbage.
+   
+Front-End Collection: the collection of Waste by means of a front-end Waste Collection Vehicle.
+Fully-Automated Waste Collection: the use of a Waste Collection Vehicle that utilizes an automated
+mechanism to collect and dump Carts, thereby eliminating the need to manually lift and dump the
+contents of a Cart into a Waste Collection Vehicle.
+Garbage: Waste other than Recyclable Materials, Source Separated Organics, Hazardous Waste,
+White Goods, Bulky Items, Yard Waste and Non-Complying Waste.
+Garbage Cart: a reusable Cart with a grey lid supplied by, and the property of, the Region for the
+Biweekly Waste Collection of Garbage as described below:
+a) a small wheeled 120 litre (29 Imperial gallon) Cart;
+b) a medium wheeled 240 litre (54 Imperial gallon) Cart;
+c) a large wheeled 360 litre (79 Imperial gallon) Cart; or
+d) such other volume capacity Cart as determined by the Commissioner as acceptable.
+
+Garbage Receptacle:
+a) a Garbage Cart;
+b) Front-End Bins or any other containers designated by the Commissioner for the
+   collection of Garbage at Multi-Residential Complexes or in Business Improvement Areas; or
+c) a non-returnable plastic bag with:
+    1. a width no greater than 66 centimetres (26 inches);
+    2. a height no greater than 90 centimetres (36 inches);
+    3. the capability of being securely closed or tied when filled;
+    4. strength to support, without tearing, a weight of no more than 20
+       kilograms (44 pounds) when lifted;
+    5. a width no smaller than 30 centimetres (12 inches); and
+    6. a height no smaller than 30 centimetres (12 inches);
+       and does not include a Recycling Cart, Yard Waste Receptacle or a Source Separated Organics Cart.
+
+Hazardous Waste: has the meaning attributed to it in R.R.O, 1990 Regulation 347, as amended.
+
+
+
+
+
+
+
+                                        REGION OF PEEL WASTE COLLECTION
+                                               STANDARDS MANUAL
+
+
+Page #5
+
+HOME HEALTH CARE WASTE: the item referred to in Schedule “C” in the Region’s Waste Collection ByLaw and used for personal home health care.
+Indoor Collection Point: a Collection Point located within or below a structure that has been
+approved by the Commissioner of Public Works for the Set-out and collection of Bulky Items,
+Garbage, Source Separated Organics, Recyclable Materials, White Goods and Yard Waste.
+Industrial: those properties and Developments zoned as industrial.
+Industrial or Commercial Waste: Waste originating from:
+a)
+any business;
+b)
+an enterprise or activity involving warehousing, storage or Industrial, manufacturing
+or Commercial processes or operations;
+c) research or experimental enterprise or activity;
+d) an enterprise or activity where goods or materials are kept for sale, or offered for sale, to the general public;
+e) hotels or motels;
+f) clinics that provide medical, cosmetics surgery, dental or veterinary diagnosis or treatment;
+g) laboratories or hospitals; or
+h) construction or demolition projects, or large home renovations.
+
+Institution(al): Developments on properties with in-effect Institutional zoning designation.
+Institutional Waste: includes, but is not limited to, Waste generated in a building that is a Non-Profit
+Community Agency, such as a seniors’ home, group home, Licenced Lodging House, Place of
+Worship, day care, community shelter, school, or community college and university residence,
+Regional or Area Municipality property, or the property of the Crown in Right of Ontario or the Crown
+in Right of Canada or any other emanations thereof, and any other facilities as designated by the
+Commissioner.
+
+Jockeying of Front-End Bins: manually positioning one Front-End Bin at a time for a Waste
+Collection Vehicle to dump.
+Licensed Lodging House: a house or building, or portion of these, approved by a municipality, where
+four or more people are living and where the occupants do not have exclusive access to kitchen
+facilities and all habitable areas of the building, and does not include a hotel, hospital, nursing home,
+home for the young or the aged, or an Institution of a hotel, hospital or home.
+Litter: debris, refuse, or Waste discarded outside the regular Collection Point or lying scattered about
+the area.
+Live-Work Unit: a Dwelling Unit used partly for residential purposes and partly for Commercial or
+Institutional activities.
+Local Board: a local board as defined in the Municipal Affairs Act, R.S.O 1990, c. M.46, or any
+successor legislation insofar as its authority may be exercised by the Region.
+Long-Term Care Institution: a nursing home, convalescent home, skilled nursing facility, care home,
+rest home or intermediate care that provides a type of residential care.
+
+
+
+
+
+
+
+
+                                             REGION OF PEEL WASTE COLLECTION
+                                                    STANDARDS MANUAL
+
+
+Page #6
+
+Mixed Use Building: a building or structure comprised of a combination of Dwelling Units, and/or
+Live-Work Units and/or Commercial and Institutional establishments.
+Multi-Residential Complex: apartment building, condominium complex, complex, co-op complex,
+Licensed Lodging House or other similar residential complex containing more than six (6) selfcontained Dwelling Units, or any combination thereof.
+Municipal Road: a road allowance, street, lane or thoroughfare that is maintained by the Region or an
+Area Municipality.
+Non-Complying Waste: the items referred to as Non-Complying Waste in Schedule “E” of the
+Region’s Waste Collection By-law.
+Non-Profit Community Agency: a non-profit organization that is classified as such by the Canada
+Revenue Agency, or its successor, that is involved in programs that assist or improve the quality of life
+in the Region and that carries out activities without pecuniary gain that perform a function of
+benevolence, vocational training or charity; or that organizes community activities such as agricultural
+fairs, parades, festivals and/or celebrations that allow for unrestricted public access, such as Canada
+Day picnics, Multi-Cultural Day celebrations and Communities in Bloom events.
+Non-Residential Area: properties with in-effect zoning permitting uses other than residential uses.
+
+Occupier(ant): an occupier as defined in the Occupiers' Liability Act, R.S.O. 1990, c.O.2, and
+includes:
+a) a person who is in physical possession of a premise; or
+b) a person who has responsibility for, and control over, the condition of a premise or the
+   activities there carried on, or control over persons allowed to enter the premise, and
+   includes, but is not limited to, property managers, property superintendents, facility
+   custodians and tenants;
+   despite the fact that there is more than one Occupant of the same premise.
+
+Owner: a person who is an owner of any land or building, which includes, but is not limited to, Developers.
+Place of Worship: a Development where individuals or groups of people gather to perform acts of
+devotion, veneration or religious study and which includes temples, churches and mosques.
+Private Property: any land or building that is privately owned, and is not owned by an Area
+Municipality, a Local Board, the Region, or the Crown in Right of Ontario, the Crown in Right of
+Canada, or any emanations thereof, unless it is leased to a person or corporation not listed above.
+Private Road: any road that is not owned or maintained by an Area Municipality, a local board, the
+Region, or the Crown in Right of Ontario, the Crown in Right of Canada or any emanations thereof.
+Public Property: any land or building that is owned by an Area Municipality, a local board, the
+Region, or the Crown in Right of Ontario, the Crown in Right of Canada or any emanations thereof.
+Recycling Cart: a reusable Cart with a blue lid supplied by, and the property of, the Region for the
+Biweekly Waste Collection of Recyclable Materials as described below:
+a) a small wheeled 120 litre (29 Imperial gallon) Cart;
+b) a medium wheeled 240 litre (54 Imperial gallon) Cart;
+
+
+
+
+
+
+
+                                              REGION OF PEEL WASTE COLLECTION
+                                                    STANDARDS MANUAL
+
+
+Page #7
+
+c) a large wheeled 360 litre (79 Imperial gallon) Cart; or
+   such other volume capacity Cart as determined by the Commissioner as acceptable.
+
+Recyclable Materials: any Waste or material, designated by the Commissioner for the Region’s
+recycling program, and which includes, but is not limited to, the items referred to in Schedule “G” of
+the Waste Collection By-law and any other Waste identified as recyclable by the Region as determined
+by the Commissioner.
+Recycling Receptacle:
+a) a Recycling Cart;
+b) Front-End Bin; or
+c) a clear or transparent blue or colourless plastic bag no larger than 76.2 centimetres (30
+inches) wide and 90 centimetres (36 inches) in length and capable of supporting a weight
+of no more than 20 kilograms (44 pounds).
+Region: the Regional Municipality of Peel.
+Residential Area: land with in-effect residential zoning designation.
+Residential Unit: a self-contained residential Dwelling Unit permitted by law that is a:
+a) single-detached residence;
+b) semi-detached residence;
+c) unit in a Duplex, Triplex, Fourplex, Fiveplex Or Sixplex; or
+d) unit in an apartment building, condominium complex, Townhouse complex, co-op
+   complex, licensed lodging house or other similar residential complex;
+   but does not include a hotel, motel, or a restaurant.
+
+
+Residential Waste: Waste that is discarded for collection that originates from a Residential Unit or
+unit in a Multi-Residential Complex and includes, but is not limited to, Bulky Items, White Goods,
+Source Separated Organics, Garbage, Wood Waste, Yard Waste and Recyclable Material.
+Scheduled Collection Day: a day of residential, BIA and ABCD Waste Collection for a particular
+geographical area within the Region, as determined by the Commissioner.
+Set-out: to place, cause or permit the placement of Waste at a Collection Point on Private Property or
+Public Property for the purpose of collection.
+Semi-Automated Waste Collection: a method of collecting Recyclable Materials, Garbage, or Source
+Separated Organics using a Garbage, Recycling or Source Separated Organics Cart equipped with
+wheels, which is compatible with the equipment used by the Region’s Contractor for the provision of
+Waste Collection where the operator may leave the vehicle to place Waste Collection receptacles for
+mechanical lifting into a Waste Collection Vehicle.
+Semi-Detached Dwelling: a pair of Dwelling Units joined side-by-side or back-to-back, sharing a
+common wall.
+Single-Detached Dwelling: a Dwelling Unit not physically attached to other structures.
+Site Plan: the process by which Area Municipalities consider the design and technical aspects of a
+proposed Development and examine the proposal to ensure compliance with all municipal land use
+
+
+
+
+
+
+
+                                                REGION OF PEEL WASTE COLLECTION
+                                                       STANDARDS MANUAL
+
+
+Page #8
+
+requirements, standards and objectives, including the requirements of the Waste Collection By-law and
+this manual.
+Sixplexes: a structure of six co-joined Dwelling Units.
+Small Business(es): an establishment used for Commercial, Retail, Recreational, Entertainment , or
+Office purposes of less than 500 square metres in area.
+Source Separated Organics (SSO): materials of plant or animal origin including kitchen food waste
+and any other organic material collected separately for the purpose of processing, including but not
+limited to composting into a beneficial use product, as determined by the Commissioner and identified
+in Schedule “F” of the Waste Collection By-law.
+Source Separated Organics Cart:
+a) a reusable container with the capacity of 100 litres (26 imperial gallons) supplied by,
+   and the property of, the Region for the weekly collection of Source Separated Organics;
+b) a container, which is a Compostable Bag, that is purchased by the Occupier; or
+c) such other container determined by the Commissioner as acceptable for Set-out of Source Separated Organics for collection.
+
+Stacked Townhouses: a Townhouse Development containing two (2) to five (5) self-contained
+Dwelling Units, built upon one another.
+Triplexes: a structure of three co-joined Dwellings Units.
+Townhouse: a row of co-joined Dwelling Units.
+T-turnaround: a “T”-shaped area that allows Waste Collection Vehicles to reverse through a threepoint turn (See Appendix 3).
+Turning Radius: the minimum radius required for a Waste Collection Vehicle to turn around (See
+
+Appendix 1).
+Waste: anything discarded from any source, including, but not limited to, Garbage, Recyclable
+Materials, Source Separated Organics, White Goods, Bulky Items and Yard Waste, and which does not
+include Hazardous Waste or Non-Complying Waste.
+Waste Collection: the act of collecting Waste Set-out at a Collection Point using Front-End
+Collection, Semi-Automated Waste Collection or Fully-Automated Waste Collection.
+Waste Collection By-law: the ordinance (By-law Number 35-2015) of the Regional Municipality of
+Peel enacted to regulate the collection of Waste in the Cities of Brampton and Mississauga and the
+Town of Caledon.
+Waste Collection Vehicle: a vehicle specially designed to collect Waste.
+Waste Management Staff: an employee(s) of the Regional Municipality of Peel’s Waste
+Management Division.
+
+
+
+                                              REGION OF PEEL WASTE COLLECTION
+                                                     STANDARDS MANUAL
+
+
+Page #9
+
+Waste Storage Room: an indoor room within a Multi-Residential Complex for the purpose of storing
+Bulky Items, Front-End Bins and Carts.
+White Goods: the items referred to as White Goods in Schedule “H” of the Waste Collection By-law
+and any other Waste material identified as White Goods by the Region as determined by the
+Commissioner.
+
+Wood Waste: the items referred to as Wood Waste in Schedule “I” of the Waste Collection By-law,
+and any other Waste material identified as Wood Waste by the Region as determined by the
+Commissioner.
+Yard Waste: the items referred to as Yard Waste in Schedule “J” of the Waste Collection By-law and
+any other Waste material identified as Yard Waste by the Region as determined by the Commissioner.
+Yard Waste Receptacle:
+a) a labelled, open, and reusable rigid container having:
+   1. rigid handles that are attached or moulded to the exterior of the container;
+   2. a capacity of less than 125 litres (27.5 Imperial gallons);
+   3. an external width no greater than 60 centimetres (24 inches);
+   4. an external height no greater than 95 centimetres (38 inches);
+   5. the top of the container that is larger than the bottom of the container; and
+   6. the capability of supporting a weight of 20 kilograms (44 pounds); or
+
+b) a kraft paper bag specifically designed for Yard Waste and with:
+   1. a width no greater than 66 centimetres (26 inches);
+   2. a height no greater than 90 centimetres (35 inches);
+   3. the capability to be securely closed or tied when filled; and
+   4. the durability to support, without tearing, a weight of 20 kilograms (44 pounds) when lifted; or
+
+c) a re-usable bushel basket capable of supporting 20 kilograms (44 pounds) when lifted;
+
+d) such other container designated by the Commissioner as acceptable to Set-out Yard Waste for collection.
+
+
+
+
+                                             REGION OF PEEL WASTE COLLECTION
+                                                     STANDARDS MANUAL
+
+
+Page #10
+
+WASTE COLLECTION DESIGN STANDARDS MANUAL CHECKLIST
+Ensure that the following are clearly identified on Site Plan drawings:
+Site Access and Exit
+
+Adequate Turning Radius – Turns must have a minimum of 13 metres Turning Radius for Waste Collection
+Vehicle. Turning Radius for all turns must be labelled on Site Plan.
+
+Adequate roadway width – All roads must be a minimum of 6 metres to allow unrestricted movement of Waste
+
+Collection Vehicles even with vehicles parked on both sides and must be designed to support a minimum of 35
+tonnes, the weight of a fully loaded Waste Collection Vehicle.
+Grading – The maximum grade along the Waste Collection Vehicle access route is 8 per cent.
+Adequate head-on approach – The head-on approach for Waste Collection Vehicles to access the Collection
+Point is a minimum of 18 metres.
+
+Safe and reasonable access – The Waste configuration avoids the Waste Collection Vehicle to reverse in excess
+of 15 metres, turn while reversing, or to reverse onto a municipal roadway.
+Road layouts permit forward motion – Road layouts are designed to permit a Waste Collection Vehicle to
+drive forward without reversing for Waste Collection. Where the requirement for a road layout permitting
+forward movement of a Waste Collection Vehicle cannot be met, a Cul-de-sac or a T-turnaround is required in
+accordance with the specifications shown in Appendices 2 and 3, respectively.
+Overhead clearance at the Collection Point – A minimum of 7.5 metres from the concrete pad is provided at
+the Collection Point. The clear height of 7.5 metres is free of obstructions such as sprinkler systems, ducts, wires,
+trees, or balconies.
+
+Overhead clearance outside of the Collection Point – Outside the Collection Point, a clear height of 4.4 metres
+from the top of the access road, along the Waste Collection Vehicle access and egress route is provided. The
+clear height of 4.4 metres is free of obstructions such as sprinkler systems, ducts, wires, trees or balconies.
+Certified letter – If a Waste Collection Vehicle is required to drive onto or over a supported structure (such as
+an air grate, transformer cover, parkade or underground parking garage), the Region must be provided with a
+letter certified by a professional engineer (licensed by Professional Engineers Ontario) that the structure can
+safely support a fully loaded Waste Collection Vehicle weighing 35 tonnes.
+
+Curbside Waste Collection
+ Accessible Collection Point – The Collection Point is to be as close as possible to the travelled portion of the
+
+roadway directly adjacent to the Private Property of the unit Owner, accessible to the Waste Collection Vehicle
+and free of obstructions such as parked cars.
+
+Adequate Collection Point dimensions – The Collection Point along the curb, adjacent to the driveway must be
+at least 3 square metres or 32 square feet per unit in order to provide sufficient space for the placement of
+Garbage, Recycling, Source Separated Organics and Yard Waste Receptacles (See Appendix 8 for dimensions).
+
+Front-End Bins and Carts Entitlement
+Adequate number of Front-End Bins, and/or Carts has been proposed – For Multi-Residential Complexes
+
+and Stacked Townhouses see Section 4, for BIAs see Section 6, and for Institutional Developments see Section
+7. Adequate labelling – Quantity, type and size of Garbage Receptacles and Recycling Receptacles to be used.
+
+
+
+
+                                               REGION OF PEEL WASTE COLLECTION
+                                                     STANDARDS MANUAL
+
+
+Page #11
+
+Collection Point Requirements
+Concealed Collection Point – A 3- metre clearance at the opening is required for a single-bin. An opening of 6
+metres is required for a Concealed Collection Point for two Front-End Bins with two gates. If four gates are
+proposed on a Concealed Collection Point, then an opening of 8-metres is required.
+Storage for Bulky Items – The storage space provided for Bulky Items is 10 cubic metres for each MultiResidential Complex. The Concealed Collection Point for Bulky Items can be separate from the Concealed
+Collection Point for Front-End Bins.
+Concealed Collection Point gates – A locakable gate is required. The gates on the Concealed Collection Point
+must swing open to a minimum of 135 degrees and must be capable of being secured in an open position. Sliding
+gates are also permitted.
+
+Walking distance to Collection Point and/or Waste Storage Room – For Multi-Residential Complexes and
+Stacked Townhouses the maximum walking distance for Owners to a Collection Point or Waste Storage Room is
+100 metres.
+
+Adequate Internal Set-out Area surface and strength – The surface of the Collection Point must be a solid
+and level (Max. 2% slope) concrete surface. The concrete pad must extend a minimum of 1.5 meters in length
+outside the opening of the Concealed Collection point.
+Concealed Collection Point bollards – Bollards or a concrete curb must also be installed at the rear of the
+Concealed Collection Point to protect it from damage when Front-End Bins are picked up, or returned in place,
+by the Waste Collection Vehicle.
+
+Adequate internal storage space – Internal Waste Storage Rooms must be a minimum of 10 square metres for
+the storage of Bulky Items for each Multi-Residential Complex.
+Waste Storage Room and Collection Points for Mixed Use Buildings – must satisfy the Waste Storage Room
+and Collection Point requirements for Multi-Residential Complexes and Stacked Townhouses of the same
+number Dwelling Units as set out in Sections 4.1.1 - 4.2. If the Mixed Use Building is within a BIA and includes
+a Small Business(es) requesting Region of Peel Waste Collection services, the Waste Management Division must
+be consulted.
+
+Overhead clearance in the Collection Point – Overhead clearance of 7.5 metres from obstructions such as
+overhead utility wires, trees or balconies must be provided in the Collection Point.
+Overhead clearance outside of the Collection Point – Overhead clearance of 4.4 metres from obstructions such
+as overhead utility wires, trees or balconies must be provided outside of the Collection Point.
+
+Indoor Collection Point width – Must be a minimum width of 6 metres for the storage of multiple Front-End
+Bins.
+
+Indoor Collection Point access – There must be an unobstructed distance of a minimum of 18 metres to enable
+to Waste Collection Vehicle to wholly enter the Indoor Collection Point.
+
+Waste Storage Room Requirements
+
+Waste Storage Room area – A Waste Storage Room must be of sufficient area to accommodate the required
+number of Front-End Bins and/or Recycling Carts. It must also provide sufficient area to store Bulky Items.
+
+Waste Storage Room accessibility – The Waste Storage Room must be accessible to occupants.
+Specific Requirements for Stacked Townhouses
+
+Walking distance – The maximum walking distance from a Dwelling Unit to the closest Concealed Collection
+Point must be less than 100 metres.
+
+
+
+
+                                          REGION OF PEEL WASTE COLLECTION
+                                                STANDARDS MANUAL
+
+
+Page #12
+
+Other
+ Scalable Drawing - A scale must be provided on the Site Plan
+ Dimensions – The dimensions on the Site Plan must be relevant to the requirements of this manual.
+
+
+
+
+
+
+
+
+                                         REGION OF PEEL WASTE COLLECTION
+                                                STANDARDS MANUAL
+
+
+Page #13
+
+1.0 INTRODUCTION
+
+  1.1 General Information
+
+The Region provides Waste Collection services in accordance with the Region of Peel’s Waste
+Collection By-law. The Region provides Waste Collection services to Residential Units, some
+Institutions, and Small Businesses located within Business Improvement Areas (BIAs). Eligibility for
+the Region’s Waste Collection services requires compliance with the requirements set out in this
+manual.
+
+The requirements of this manual do not supersede the Ontario Building Code (OBC), nor do they
+exempt any aspect of a development from the requirements of the OBC.
+The Region will not provide Waste Collection services to Industrial, Commercial and Institutional
+establishments, other than those located within BIAs. For these establishments the Owner is to arrange
+for a private Waste Collection company to collect Waste.
+
+Please refer to the Waste Collection Design Standards Manual Checklist Section prior to submitting
+Site Plans to the Area Municipalities for review. For clarification of the terms used in this manual,
+Please contact the Waste Management Division by Electronic mail at ZZGWasteCollectionDesignStandardsInquiries@peelregion.ca for clarification of the requirements set out in this manual and/or to arrange a pre-Site Plan submission consultation.
+The requirements set out in this manual support the Region’s 3Rs (Reduce, Reuse, and Recycle)
+diversion goals. Subsequent versions of this manual will include additional or modified design
+requirements to complement new diversion programs. A possible program change being considered at
+this time by the Region is the collection of SSO from Multi-Residential Complexes with more than six
+Dwelling Units and from Stacked Townhouses. A future version of this manual may require these
+Development types to include design features for SSO diversion.
+Effective March 11, 2016, this manual replaces the Waste Collection Design Standards Manual
+approved as Council Resolution 2007-799.
+
+  1.2 Eligibility for Waste Collection
+
+This Waste Collection Design Standards Manual sets out the features that must be incorporated into
+the design of various categories of Developments and the features set forth within this manual must be
+met in order for the Region to provide collection of Garbage, Recyclable Materials, Bulky Items,
+Source Separated Organics and Yard Waste.
+The role of the Region of Peel’s Waste Management Division within the land Development process is
+to review all Development and redevelopment applications for compliance with this manual and
+provide feedback on Development applications to Area Municipalities.
+It should be noted that the Region reserves the right to enact additional requirements during a detailed
+review of Development and redevelopment applications. It should also be noted that this manual is to
+
+
+
+
+
+
+                                        REGION OF PEEL WASTE COLLECTION
+                                                STANDARDS MANUAL
+
+
+Page #14
+
+be used in conjunction with, not in place of, all applicable building codes, the Waste Collection By-law
+and any processes required by the Planning Act.
+All Developments which include Residential Units must comply with the requirements of this manual
+in order to receive Waste Collection services by the Region. Private Waste Collection for
+Developments that include Residential Units will not be permitted unless approved by Council.
+Developers must submit a letter addressed to the Commissioner of Public Works Office (10 Peel
+Centre Drive, Brampton Ontario, L6T 4B9, Suite A, 5th Floor), requesting to use a private Waste
+Collection company for their Development. If private Waste Collection is approved, the Development
+cannot re-apply to the Region to receive Waste Collection unless modifications are made to the
+Development to meet the requirements of this manual or unless Council approves such service.
+Failure to comply with the requirements set out in this manual, and any additional requirements
+imposed by the Commissioner, will result in a Site Plan not being approved or suspension of
+Waste Collections services until modifications are made to demonstrate compliance with the
+requirements set out in this manual, or as otherwise required by the Commissioner.
+
+1.3 Request to Commence Waste Collection Service
+
+For Developments located on a Private Road, the Developer is responsible for Waste Collection and
+disposal until 90 per cent occupancy is achieved.
+If the Waste Collection Vehicle is required to drive onto, or over, a supported structure (such as an air
+grate, transformer cover or underground parking garage) within a Development, the Region must be
+provided with a letter from a professional engineer (licensed by Professional Engineers Ontario),
+certifying that the structure can safely support a fully loaded Waste Collection Vehicle weighing 35
+tonnes.
+
+In all cases where a Region of Peel Waste Collection Vehicle is required to enter a private property,
+the Developer must submit a completed Acknowledgement and Release for Private Property Waste
+Collection Form and a completed Application for Private Property Waste Collection Form to the
+Region’s Waste Management Division prior to the commencement of Waste Collection. These forms
+are locqated in Appendix The Developer must contact the Region’s Waste Management Division at
+905-791-9499 to submit the forms and report 90 per cent occupancy, if applicable. These forms are
+provided in Appendices 10 and 11, respectively.
+For Stacked Townhouses, the Developer must submit with the aforementioned forms written
+confirmation that all Owners had received written notification of the location(s) of the Collection
+Point(s) and/or Waste Storage Room(s) prior to purchase.
+
+After the required forms and confirmations are received, the Waste Management Division will visit the
+Development within five to ten business days to determine if the occupancy level has reached 90 per
+cent, if applicable, and if the Development is in compliance with the requirements of this manual. The
+Waste Management Division will determine, at its sole discretion, if the Development is in compliance
+with this manual and if approved will authorize Waste Collection Services to commence within ten to
+fifteen business days from the date that the Waste Management Division approves final clearance for
+the Development.
+
+
+
+
+                                       REGION OF PEEL WASTE COLLECTION
+                                             STANDARDS MANUAL
+
+
+Page #15
+
+2.0 GENERAL DESIGN REQUIREMENTS
+
+     The design requirements listed below apply to all categories of Developments.
+
+3.0 
+   a) Internal roadways must be constructed of a hard surface material, such as asphalt, concrete or
+      lockstone, and designed to support a minimum of 35 tonnes, the weight of a fully loaded
+      Waste Collection Vehicle.
+
+   b) Road layouts shall be designed to permit a Waste Collection Vehicle to drive forward without
+      reversing for Waste Collection. Where the requirement for a road layout permitting forward
+      movement of a Waste Collection Vehicle cannot be met, a Cul-de-sac or a T-turnaround shall
+      be provided in accordance with the specifications shown in Appendices 2 and 3, respectively.
+
+   c) All roads shall be designed to have a minimum width of 6 metres.
+
+   d) The Turning Radius from the centre line must be a minimum of 13 metres on all turns.
+
+   e) The maximum grade permitted along the Waste Collection Vehicle access route is 8 per cent.
+
+   f) In a situation where a Waste Collection Vehicle must reverse, the maximum back-up distance
+      is 15 metres.
+
+   g) The Waste Collection Vehicle shall not be permitted to back-up onto a municipal road
+      allowance.
+
+   h) All Dwelling Units in a Development must receive the same method of Waste Collection.
+
+
+SINGLE DETACHED DWELLINGS, SEMI-DETACHED DWELLINGS,
+TOWNHOUSES AND MULTI-RESIDENTAL COMPLEXES UP TO SIX
+DWELLING UNITS
+This section applies to Single Detached Dwellings, Semi-Detached Dwellings, Townhouses and MultiResidential Complexes with up to six Dwelling Units. Curbside Garbage, Recyclable Materials, Bulky
+Items, Source Separated Organics and Yard Waste collection will be provided to these types of
+Developments subject to the Developer demonstrating compliance with the requirements of Section and set out below.
+
+2.0 a) Each Dwelling Unit’s Collection Point must be at least 3 square metres, or 32 square feet in
+       order to provide sufficient space for the placement of Carts: maximum one (1) large Garbage
+       Cart or Recycling Cart (360 litres or 79 Imperial gallons) and one (1) Source Separated
+       Organics Cart (100 litres or 21 Imperial gallons), overflow Waste (i.e. additional bags), Yard
+       Waste and Bulky Items.
+
+    b) Each Dwelling Unit within a Development must have its own identifiable Collection Point.
+       See Appendix 9 for an example of a Collection Point.
+
+
+
+
+                                         REGION OF PEEL WASTE COLLECTION
+                                               STANDARDS MANUAL
+
+
+Page #16
+
+c) The Collection Point must be located along the curb, adjacent to the driveway, and must be
+   directly accessible to the Waste Collection Vehicle and free of obstructions such as parked
+   cars.
+
+The use of Common Collection Areas for Single-Detached Dwellings, Semi-Detached Dwellings,
+Townhouses and Multi-Residential Complexes up to six Dwelling Units is not permitted.
+
+
+
+4.0  MULTI-RESIDENTIAL COMPLEXES WITH MORE THAN SIX
+     DWELLING UNITS AND STACKED TOWNHOUSES
+
+This section applies to Multi-Residential Complexes with more than six Dwelling Units and to Stacked
+Townhouses. The collection of Garbage, Recyclable Materials and Bulky Items will be provided to
+these types of Developments. The Developer must demonstrate compliance with the requirements set
+out in this section and Section 2.0 in their Site Plan submission.
+The design of these Developments must include features that make the Set-out of Recyclable Materials
+as convenient to each Occupant as that for Garbage.
+
+Multi-Residential Complexes and Stacked Townhouses must supply Front-End Bins for Garbage
+Collection. Recycling Carts or Front-End bins for Recyclable Materials will be provided by the
+Region.
+
+
+
+4.1 Design Requirements
+
+The following design requirements apply to all Multi-Residential Complexes with more than six
+Dwelling Units and to Stacked Townhouses.
+  a) Recyclable Materials must not be compacted.
+  b) If a chute system is used then separate chutes must be provided for Garbage and Recyclable
+     Materials or a single chute can be used if equipped with an automated mechanical separation
+     system to direct Garbage and Recyclable Materials into separate Front-End Bins.
+  c) A Concealed Collection Point on Private Property must be provided. The Concealed Collection
+     Point must have direct and safe access that does not require the Waste Collection Vehicle to back
+     onto a Municipal Road following collection. See Appendix 1 for Waste Collection Vehicle
+     dimensions and Appendices 2 and 3 for minimum turnaround requirements.
+  d) A minimum 18 metre straight head-on approach to the Collection Point is required. This approach
+     is to be level and solid (Max. 2% slope) and the same width as the Collection Point.
+
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #17
+
+  e) A minimum clear height of 7.5 metres from the concrete pad must be provided at the Collection
+     Point. The clear height of 7.5 metres must be free of obstructions such as sprinkler systems, ducts,
+     balconies, wires and trees.
+  f) Outside the Collection Point, a clear height of 4.4 metres from the top of the access road must be
+     provided along the Waste Collection Vehicle access and egress route. The clear height of 4.4
+     metres must be free of obstructions such as sprinkler systems, ducts, balconies, wires and trees.
+  g) The Collection Point should be designed with sufficient area to eliminate the need for property
+     management staff to Jockey Front-End Bins to make them accessible to the Waste Collection
+     Vehicle.
+  h) The minimum width of the Collection Point must be 3 metres for each Front-End Bin. The
+     minimum depth of the Collection Point must be 2 metres for a 3-cubic yard Front-End Bin and 3
+     metres for 4 and 6-cubic yard Front-End Bins. Please refer to Appendix 7 for bin dimensions.
+     
+
+However, where these requirements cannot be met, reliance on property management staff to
+facilitate Waste Collection will be considered at the Commissioner’s discretion, subject to the
+following conditions:
+  1. the driver is not required to exit the Waste Collection Vehicle to facilitate collection; 
+  2. property management staff is responsible for Jockeying of Front-End Bins during collection;
+  3. the Region will not be responsible for emptying bins that are inaccessible to the Waste
+     Collection Vehicle; and
+  4. property management staff must be visible to Waste Collection Vehicle on approach to
+     the site, otherwise the Waste Collection Vehicle will not enter the site.
+
+
+The Collection Point including the number and size of Front-End Bin(s) to be used for Garbage
+and the number, size and type of Recycling Receptacle(s) (Front-End Bin or Cart) are to be clearly
+shown and labelled on drawings (e.g. Site Plan, ground floor plan, etc.). The drawings must also
+show the Waste Collection Vehicle’s route through the Development and the radius of every turn
+must be labelled. See Appendices 14 and 15 for sample drawings.
+
+
+4.1.1 Garbage and Recycling Receptacle Requirements
+
+Multi-Residential Complexes and Stacked Townhouses with less than 60 Dwelling Units must Set-out
+Front-End Bins for Garbage and Carts for Recyclable Material. Multi-Residential Complexes and
+Stacked Townhouses with 60 or more Dwelling Units must Set-out Front-End Bins for Garbage and
+Front-End Bins for Recyclable Material.
+Table 1 below, can be used to calculate the storage capacity for Garbage and Recyclable Materials that
+Multi-Residential Complexes and Stacked Townhouses require.
+
+Table 1: Maximum Number of Dwelling Units per Front-End Bin for Garbage by Bin Size
+
+Type of Bin
+Compacted
+Non-compacted
+
+3-Cubic Yards
+54
+18
+
+4-Cubic Yards
+72
+24
+
+
+                                             REGION OF PEEL WASTE COLLECTION
+                                                    STANDARDS MANUAL
+
+
+Page #18
+
+6-Cubic Yards
+N/A
+36
+
+For example, a Multi-Residential Complex, or Stacked Townhouse with 144 Dwelling Units would
+require three 3-cubic yard Front-End Bins for Garbage with a Compactor, or six 4-cubic yard Garbage
+Front-End Bins for Garbage without a Compactor.
+Table 2 below, can be used to calculate the storage capacity for Recyclable Materials that MultiResidential Complexes and Stacked Townhouses require.
+
+Table 2: Maximum Number of Dwelling Units per Front-End Bin for Recyclable Materials by Bin Size
+
+Type of Bin
+Non-Compacted
+
+3-Cubic Yards
+45
+
+4-Cubic Yards
+60
+
+6-Cubic Yards
+90
+
+For example, a Multi-Residential Complex or Stacked Townhouse with 121 Dwelling Units would
+require three 3-cubic yard Front-End Bins or two 4-cubic yard Front-End Bins for Recyclable
+Material.
+Due to their size, 6-cubic yard Front-End Bins used to store Garbage or Recyclable Material are only
+to be used for Multi-Residential Complexes and Stacked Townhouses where Garbage and Recycling
+Receptacles are to be stored outdoors. Each 6-cubic yard Front-End Bin is to be permanently located at
+a Collection Point accessible to the Front-End Waste Collection Vehicle.
+Multi-Residential Complexes and Stacked Townhouses proposing less than 60 Dwelling Units will
+receive one Recycling Cart for every 7 Dwelling Units.
+The Front-End Bins must be Set-out within a Concealed Collection Point or an Indoor Collection
+Point. An area adjacent to the Concealed Collection Point or Indoor Collection Point must be provided
+for the Set-out of Recycling Carts.
+
+4.1.2 Concealed Collection Point Requirements
+
+The Concealed Collection Point must be of sufficient area to accommodate the number of Front-End
+Bins and Recycling Carts required for the Development and also to accommodate the Set-out and
+storage of Bulky Items. It must be accessible to occupants and the Waste Collection Vehicle. The
+design requirements for Concealed Collection Points are listed below.
+  a) A permanent three-sided structure without a roof.
+  b) A Concealed Collection Point for a single Front-End Bin requires a 3-metre opening.
+  c) A Concealed Collection Point for two Front-End Bins with two gates requires a 6-metre opening.
+  d) A Concealed Collection Point for two Front-End Bins with four gates requires an 8-metre opening.
+  e) A Concealed Collection Point requires a lockable gate. Hinged Gates on a Concealed Collection
+     Point must swing open to a minimum 135 degrees. Sliding gates are also permitted. Gates must be
+     capable of being secured in an open position.
+  f) A Concealed Collection Point requires a minimum of 10 square metres for the Set-out of Bulky
+     Items. The Concealed Collection Point for Bulky Items can be separated from the Concealed
+     Collection Point for Front-End Bins.
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #19
+
+  g) A solid, level (Max. 2% slope) and reinforced concrete pad must be provided. The concrete pad
+     must be of sufficient strength to prevent differential settlement and/or cracking that would affect
+     Waste Collection.
+  h) Bollards or a concrete curb must also be installed at the rear of the Concealed Collection Point to
+     protect the structural wall from damage when Front-End Bins are picked up, or returned in place,
+     by the Waste Collection Vehicle.
+
+See Appendix 5 for a sample drawing that illustrates these requirements. Refer to Appendices 6, 7, and
+8 for Cart and Front-End Bin dimensions.
+
+4.1.3 Waste Storage Room Requirements
+
+A Waste Storage Room must be of sufficient area to accommodate the required number of Front-End
+Bins and/or Recycling Carts required for the Development. In addition, a minimum of 10 square
+metres must be provided for the storage of Bulky Items.
+
+See Appendices 6 and 7 for Cart and Front-End Bin dimensions, respectively. See Appendix 15 for a
+sample drawing of a Waste Storage Room that illustrates these requirements.
+
+4.1.4 Indoor Collection Point Requirements
+
+The requirements for an Indoor Collection Point are as follows:
+  a) a solid, level (Max. 2% slope) and reinforced concrete pad. The concrete pad must be of necessary
+     strength to prevent differential settlement and/or cracking that would affect Waste Collection.
+  b) a minimum width of 6 metres for the storage of multiple Front-End Bins; and
+  c) an unobstructed distance of a minimum of 18 metres must be provided to enable the Waste
+     Collection Vehicle to wholly enter the Indoor Collection Point.
+
+See Appendix 15 for a sample drawing that illustrates these requirements
+
+4.2 Specific Requirements for Stacked Townhouses
+
+Stacked Townhouses with less than 60 Dwelling Units must Set-out Front-End Bins for Garbage and
+Recycling Carts for Recyclable Materials. Stacked Townhouse Developments with 60 or more
+Dwelling Units must Set-out Front-End Bins for Garbage and Front-End Bins for Recyclable
+Materials. Additional requirements for Stacked Townhouses are as follows:
+
+a) the maximum walking distance from a Dwelling Unit to the closest Concealed Collection Point
+   must be less than 100 metres; and
+
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #20
+
+b) the Developer will be required to inform prospective Owner(s) of the location of the Concealed
+   Collection Point(s) in Agreements of Purchase and Sale, and in the Condominium Declaration and
+   Description.
+
+Refer to Appendix 13: Sample Drawing of a Stacked Townhouse Site Plan for further clarification.
+The Developer, Property Manager, Owner, or agent thereof, must disclose in writing to a prospective
+buyer of a Dwelling Unit within the Development, the location of the Waste Storage Room(s) and/or
+Collection Point(s) and the requirements of the prospective buyer regarding Waste storage and Set-out.
+The wording of the notice shall be as follows:
+Waste Collection: All Buildings/Units
+“Purchasers are advised that a Concealed Collection Point for Waste is located adjacent to the
+[Feature A] and is intended to accommodate all residential Waste from [Buildings X to Y],
+inclusive only. Purchasers of units within the Development described above are advised that
+transporting Waste to the Waste Storage Room or Collection Point is the sole responsibility of
+the occupants residing in the subject buildings/units. Purchasers and subsequent occupants will
+be required to dispose of all Waste to the Collection Point on-site.”
+The Developer must submit to the Region, with a request to commence Waste Collection Services,
+written confirmation that all Owners had received written notification of the location(s) of a Collection
+Point(s) and/or Waste Storage Room(s) prior to purchase.
+Refer to Section 1.3, Request to Commence Waste Collection Service for clarification of the
+requirements to register for the Region’s Waste Collection services.
+
+
+5.0 MIXED USE BUILDINGS
+
+For Dwelling Units within Mixed Use Buildings, the Region will provide collection of Recyclable
+Materials, Bulky Items, Garbage and Yard Waste. A private Waste Collection company will be
+required for Industrial, Commercial, or Institutional Waste. Refer to Section 6 for requirements
+pertaining to Mixed Use Buildings located in BIAs.
+To be eligible for collection of Residential Waste, Developers of Mixed Use Buildings must have the
+same design features as other Multi-Residential Complexes with the same number of Dwelling Units
+as described in Sections 4.0 - 4.1.4.
+Mixed Use Buildings with less than 60 Dwelling Units must Set-out Front-End Bins for Garbage and
+Recycling Carts for Recyclable Materials. Mixed Use Buildings with 60 or more Dwelling Units must
+Set-out Front-End Bins for Garbage and Front-End Bins for Recyclable Materials.
+Residential Waste must be separated from Industrial, Commercial, or Institutional Waste. Collection
+Points for Residential and Industrial, Commercial, or Institutional Waste must be separated and clearly
+shown on Site Plan drawings. See Appendix 15 for a sample drawing.
+
+
+
+
+                                        REGION OF PEEL WASTE COLLECTION
+                                              STANDARDS MANUAL
+
+
+Page #21
+
+6.0 BUSINESS IMPROVEMENT AREAS
+
+Residential Units, Multi-Residential Complexes, Stacked Townhouses and some Institutions located
+within BIAs will be provided with the Region’s Waste Collection services, subject to compliance with
+the applicable requirements set out in Sections 2.0 - 4.0, and 7.0.
+Small Businesses located within BIAs can choose to receive the Region’s collection services for
+Recyclable Materials, Bulky Items, Garbage and Yard Waste, subject to satisfying the requirements set
+out in this section and Sections 2.0, 4.0 and 4.1.2, or may elect to use the services of a private Waste
+Collection company.
+
+Mixed Used Buildings located within BIAs which include a Small Business(es) requesting the
+Region’s Waste Collection services must provide the same design features as other Multi-Residential
+Complexes with the same number of Dwelling Units, as described in Sections 4.0 - 4.1.4, and provide
+one Collection Point of sufficient area to store Garbage and Recycling Receptacles, Bulky Items and
+Yard Waste from Dwelling Units and Small Businesses.
+It is recommended that a Developer, or owner, or agent thereof undertaking a Development or reDevelopment within a BIA and intend to receive Waste Collection Services from the Region, contact
+the Waste Management Division by Electronic mail at ZZGWasteCollectionDesignStandardsInquiries@peelregion.ca to conduct a pre-Site Plan submission consultation.
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #22
+
+7.0 INSTITUTIONAL DEVELOPMENTS
+
+This section applies to Institutional Developments which include Long-Term Care Institutions,
+Schools and Places of Worship, and Schools.
+Waste Collection services for Institutional Developments is dependent on location. Contact the Waste
+Management Division by Electronic mail at
+ZZGWasteCollectionDesignStandardsInquiries@peelregion.ca to verify eligibility.
+Institutional Developments that are eligible to receive the Region’s Waste Collection services must
+comply with the requirements listed in Sections 2.0, 4.0, 4.1.2, 4.13, and 4.1.4.
+
+
+7.1 Long-Term Care Institutions
+
+Long-Term Care Institutions designed to accommodate less than 60 Persons must Set-out Front-End
+Bins for Garbage and Recycling Carts for Recyclable Materials. Long-Term Care Institutions designed
+to accommodate more than 60 Persons must Set-out Front-End Bins for Garbage and Front-End Bins
+for Recyclable Materials.
+Table 3 and 4 below, can be used to calculate the Front-End Bin storage capacity for the collection of
+Garbage and Recyclable Materials:
+Table 3: Maximum Number of Persons per Front-End Bin for Recyclable Materials by Bin Size
+
+Type of Bin
+Non-compacted
+
+3-Cubic Yards
+60
+
+4-Cubic Yards
+80
+
+6-Cubic Yards
+100
+
+Table 4: Maximum Number of Persons per Front-End Bin for Garbage by Bin Size
+
+Type of Bin
+Compacted
+Non-compacted
+
+3-Cubic Yards
+90
+36
+
+4-Cubic Yards
+120
+48
+
+6-Cubic Yards
+N/A
+60
+
+For example, a Long-Term Care Institution designed to accommodate 182 Persons will require two 3cubic yard Front-End Bins for Garbage if it is compacted or four 4-cubic yard Front-End Bins for
+Garbage if a Compactor is not used. In addition, the Long-Term Care Institution will require three 3cubic yard or two 6-cubic yard Front-End Bins for Recyclable Materials.
+Due to their size, 6-cubic yard Front-End Bins are only to be used for Developments where Waste is to
+be stored in a Concealed Collection Point. Each 6-cubic yard Front-End Bin is to be permanently
+located at a Collection Point accessible to the Waste Collection Vehicle.
+Long-Term Care Institutions with less than 60 Persons will be provided with one Recycling Cart for
+every 7 Persons.
+Hazardous Waste and Biomedical Waste are not to be Set-out for Waste Collection. Hazardous Waste
+and Biomedical Waste must be collected by a private Waste Collection company. Set-out of
+Hazardous Waste and Biomedical Waste for Residential Waste Collection may result in the suspension
+of Waste Collection.
+
+
+
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #23
+
+7.2 Schools
+
+Waste Collection for Schools is dependent on location. Contact the Waste Management Division by
+Electronic mail at ZZG-WasteCollectionDesignStandardsInquiries@peelregion.ca to verify eligibility.
+Recyclable Materials will be collected from schools that are eligible to receive the Region’s Waste
+Collection services. The collection of Garbage is required through a private Waste Collection
+company.
+The number of Recycling Carts or Front-End Bins required will be dependent on the total number of
+persons, including students, faculty and staff, that the school is designed to accommodate. Table 5
+below, can be used to calculate the Front-End Bin storage capacity for Recyclable Materials.
+Table 5: Maximum Number of Persons per Front-End Bin for Recyclable Materials by Bin Size
+
+Type of Bin
+3-Cubic Yards
+Non-compacted 600
+
+4-Cubic Yards
+800
+
+6-Cubic Yards
+1200
+
+For example, a school designed to accommodate a total of 750 students, faculty, and staff will require
+two 3-cubic yard Front-End Bins or one 4-cubic yard Front-End Bin for Recyclable Materials.
+Due to their size, 6-cubic yard Front-End Bins are only to be used where Waste is to be stored in a
+Concealed Collection Point. Each 6-cubic yard Front-End Bin is to be permanently located at a Waste
+Collection Point accessible to the Waste Collection Vehicle.
+For schools designed to accommodate less than 600 students, faculty, and staff, one Recycling Cart is
+required for every 150 persons.
+
+
+7.3 Places of Worship
+
+The Region’s Waste Collection services for Places of Worship is dependent on location. Contact the
+Waste Management Division by Electronic mail at
+ZZGWasteCollectionDesignStandardsInquiries@peelregion.ca to verify eligibility.
+Eligible Places of Worship must comply with the requirements below.
+  a) Places of Worship designed to accommodate less than 450 persons must Set-out Front-End Bins
+     for Garbage and one Recycling Cart for Recyclable Materials for every 75 persons. See Appendix
+     8 for Cart Dimensions.
+  b) Places of Worship designed to accommodate more than 450 persons must Set-out Front-End Bins
+     for both Garbage and Recyclable Materials.
+
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #24
+
+Table 6 and 7 below, can be used to calculate the Front-End Bin storage capacity for Garbage and
+Recyclable Materials at Places of Worship.
+
+Table 6: Maximum Number of Persons per Front-End Bin for Garbage by Bin Size
+
+Type of Bin
+Compacted
+Non-compacted
+
+3-Cubic Yards
+90
+36
+
+4-Cubic Yards
+120
+48
+
+6-Cubic Yards
+N/A
+60
+
+Table 7: Maximum Number of Persons per Front-End Bin for Recyclable Materials by Bin Size
+
+Type of Bin
+Non-compacted
+
+7.5
+
+3-Cubic Yards
+450
+
+4-Cubic Yards
+600
+
+6-Cubic Yards
+More than 600
+
+Other Institutions
+
+Please contact the Waste Management Division by Electronic mail at
+ZZG-WasteCollectionDesignStandardsInquiries@peelregion.ca to verify eligibility for
+Collection Services.
+
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #25
+
+Waste
+
+APPENDIX 1: WASTE COLLECTION VEHICLE ILLUSTRATIONS
+
+4.09m
+
+Fully-Automated Waste Collection Vehicle
+
+5.79m in height with the forks extended when tipping
+
+11.93m
+
+13m
+
+11.93m
+
+2.60m
+
+Radius = 13m
+
+2.60m
+
+Turning Radius
+
+Note: This Waste Collection Vehicle will only be used for Curbside Waste Collection. Drawings are not to scale. These are approximate dimensions.
+Actual dimensions may vary depending on the make and model of vehicles used by Region of Peel’s Waste Collection Contractors, which vary from
+time to time.
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #26
+
+4.31m
+
+6.15m
+
+Front-End Bin Loading Waste Collection Vehicle
+
+9.85m
+
+13m
+
+9.85m
+
+2.77m
+
+Radius = 13m
+
+Turning Radius
+2.77m
+Note:
+    This Waste Collection Vehicle will only be used for Multi-Residential Complexes, Stacked Townhouses, and select Institutional     
+    complexes.     
+    Drawings are not to scale. These are approximate dimensions. Actual dimensions may vary depending on the make and model of vehicles used  
+    by Region of Peel’s
+
+Waste Collection Contractors, which vary from time to time.
+
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #27
+
+3.81m
+
+Rear Loading Waste Collection Vehicle
+
+11.48m
+
+13m
+
+11.48m
+
+2.71m
+
+Radius = 13m
+
+Turning Radius = 2.71 m
+
+Note:
+Drawings are not to scale. Actual dimensions may vary depending on the make and model of vehicles used by Region of Peel’s Waste Collection
+Contractors, which vary from time to time.
+
+
+
+
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+
+Page #28
+
+Fully-Automated Side-Loading Cart Waste Collection Vehicle
+
+3.75 m
+
+*4.77 m in
+height with
+the arm
+extended
+
+10.84 m
+
+13 m
+
+10.84 m
+
+2.62 m
+
+Radius = 13 m
+
+2.62 m
+
+Turning Radius
+Note:
+
+This Waste Collection Vehicle will be used for Curbside Waste Collection, Multi-Residential Complexes, Stacked Townhouses, and select Institutional
+complexes. Drawings are not to scale. Actual dimensions may vary depending on the make and model of vehicles used by Region of Peel’s Waste
+Collection Contractors, which vary from time to time.
+
+
+
+                                                REGION OF PEEL WASTE COLLECTION
+                                                       STANDARDS MANUAL
+
+
+Page #29
+
+APPENDIX 2: CUL-DE-SAC SPECIFICATIONS
+
+Minimum Requirement for Regional Waste
+Collection Vehicles
+
+Waste Collection Vehicle
+11.93 m x 2.60 m
+
+Note:
+Drawings are not to scale.
+
+6M
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                   STANDARDS MANUAL
+
+
+
+Page #30
+
+APPENDIX 3: “T” - TURNAROUND SPECIFICATIONS
+
+6M
+
+Minimum Requirement for Regional Waste Collection
+Vehicles
+
+Waste Collection Vehicle
+11.93 m x 2.60 m
+
+Note:
+Drawings are not to scale.
+
+6M
+
+                                           REGION OF PEEL WASTE COLLECTION
+                                                  STANDARDS MANUAL
+
+Page #31
+
+APPENDIX 4: INDOOR WASTE COLLECTION POINT SPECIFICATIONS
+OPTION 1: 6-METRE WIDE
+COLLECTION POINT
+
+Notes
+
+OPTION 2: 9-METRE WIDE
+COLLECTION POINT
+
+Concrete Pad
+Recycling cart
+Front-End Bin
+
+The concrete apron
+must extend a
+minimum of 1.5
+metres in length
+outside of the
+Concealed Waste
+Collection Point to
+accommodate the
+front wheels of the
+Waste Collection
+Vehicle.
+
+
+18 metre head on
+approach is
+required for the
+Waste Collection
+Vehicle to wholly
+enter the Indoor
+Collection Point
+
+Note:
+Drawings are not to
+scale.
+
+                                            REGION OF PEEL WASTE COLLECTION
+                                                   STANDARDS MANUAL
+
+Page #32
+
+APPENDIX 5: CONCEALED COLLECTION POINT SPECIFICATIONS
+Notes
+Bollard
+
+ALTERNATIVE 1
+
+ALTERNATIVE 2
+
+(WITH TWO GATES)
+
+(WITH FOUR GATES)
+
+Concrete Pad
+Recycling Cart
+Front-end Bin
+
+Receptacles stored
+outdoors must be
+concealed.
+
+Gates must swing
+out a min. 135
+degrees and must be
+secured in an open
+position.
+
+The concrete apron
+must extend a
+minimum of 1.5
+metres in length
+outside of the
+Concealed
+Collection Point to
+accommodate the
+front wheels of the
+Waste Collection
+Vehicle.
+
+Note:
+Drawings are not to scale.
+
+                                              REGION OF PEEL WASTE COLLECTION
+                                                     STANDARDS MANUAL
+
+Page #33
+
+APPENDIX 6: GARBAGE AND RECYCLING RECEPTACLE DIMENSIONS
+RECYCLING RECEPTACLES
+Receptacle Type
+3-Cubic Yard Bin
+4-Cubic Yard Bin
+6-Cubic Yard Bin
+Small Cart*
+Medium Cart *
+Large Cart*
+BIA Cart**
+
+Width (metres)
+2.03
+2.03
+2.03
+0.51
+0.64
+0.69
+0.67
+
+Height (metres)
+1.26
+1.29
+1.38
+0.97
+1.12
+1.19
+1.10
+
+Depth (metres)
+1.07
+2.01
+2.03
+0.56
+0.71
+0.89
+0.854
+
+GARBAGE RECEPTACLES
+Receptacle Type
+3-Cubic Yard Bin
+4-Cubic Yard Bin
+6-Cubic Yard Bin
+
+Small Cart*
+Medium Cart*
+Large Cart*
+BIA Cart**
+
+Width (metres)
+2.03
+2.03
+2.03
+0.51
+0.64
+0.69
+0.67
+
+Height (metres)
+1.26
+1.29
+1.38
+0.97
+1.12
+1.19
+1.10
+
+Depth (metres)
+1.07
+2.01
+2.03
+0.56
+0.71
+0.89
+0.854
+
+ORGANICS RECEPTACLE
+Receptacle Type
+Curbside Organics Cart*
+
+Width (metres)
+0.51
+
+Height (metres)
+0.99
+
+Depth (metres)
+0.64
+
+Note:
+These are approximate dimensions. Actual dimensions may vary depending on model and manufacturer.
+*Receptacles are only available to Residential Units receiving Curbside Collection
+**Only available for select Multi-Residential Complexes and Institutions
+
+                                                 REGION OF PEEL WASTE COLLECTION
+                                                        STANDARDS MANUAl
+
+Page #34
+
+APPENDIX 7: FRONT-END GARBAGE AND RECYCLING BINS
+3-Cubic Yard
+
+4-Cubic Yard
+
+1.29m
+
+1.26m
+
+2.03m
+
+2.03m
+
+1.07m
+
+3-yard inside storage area bin
+1.26 m high, 2.03 m wide, 1.07 m deep
+
+2.01m
+
+4-yard inside storage area bin
+1.29 m high, 2.03 m wide, 2.01 m deep
+
+6-Cubic Yard
+
+6-Cubic Yard Slant
+
+1.38 m
+
+1.38m
+
+2.03m
+
+2.03 m
+
+2.03m
+
+2.03 m
+
+6-yard inside storage area bin
+1.38 m high, 2.03 m wide, 2.03 m deep
+
+Due to their size, 6-cubic yard Front-End Bins are only to be used for Multi-Residential Developments
+where Waste is to be stored externally in a Concealed Collection Point.
+
+Note:
+*3- & 4-cubic yard bins include casters.
+**Garbage receptacle model and dimensions may vary depending on model and manufacturer.
+***Drawing is not to scale
+
+                                                     REGION OF PEEL WASTE COLLECTION
+                                                            STANDARDS MANUAL
+
+
+Page #35
+
+APPENDIX 8: CART DIMENSIONS
+CARTS USED FOR CURBSIDE WASTE COLLETCION
+
+Small Garbage Cart
+
+Small Recycling Cart
+
+Medium Garbage Cart
+
+Large Garbage Cart
+
+Medium Recycling Cart
+
+Organics Cart
+
+Large Recycling Cart
+
+CARTS USED FOR WASTE COLLECTION FROM BIA AND MULTI-RESIDENTIAL
+COMPLEXES
+
+BIA Garbage Cart*:
+Height 110 cm (3.6 ft), Width 67 cm (2.2 ft)
+and Length 85 cm (2.8 ft)
+
+BIA Recycling Cart*:
+Height 110 cm (3.6 ft), Width 67 cm (2.2 ft)
+and Length 85 cm (2,8 ft)
+
+Note:
+These are approximate dimensions. Actual dimensions may vary depending on model and manufacturer.
+
+*BIA carts will be available for select Multi-Residential Complexes and Institutions.
+
+          
+
+                                                     REGION OF PEEL WASTE COLLECTION
+                                                            STANDARDS MANUAL
+
+Page #36
+
+APPENDIX 9: WASTE COLLECTION POINT EXAMPLES
+COLLECTION POINT FOR SINGLE-DETACHED, SEMI-DETACHED, TOWNHOUSES AND
+MULTI-RESIDENTIAL COMPLEXES UP TO SIX UNITS DWELLING UNITS
+
+Collection Point must be at least 3 square metres (32 square feet) in order to provide sufficient space for the
+placement of two Carts: maximum one (1) large Garbage or Recycling (360 litres or 79 Imperial gallons) Cart and one
+(1) Source Separated Organics (100 litres or 21imperial gallons) Cart, overflow Waste (i.e. additional bags), Yard
+Waste Receptacles and Bulky Items. In addition, a minimum 1 metre (3ft.) space between each Cart must be
+provided.
+
+OUTDOOR CONCELAED WASTE COLLECTION POINT FOR
+MULTI-RESIDENTIAL COMPLEXES, STACKED TOWNHOUSES AND MIXED USE BUILDINGS
+
+Concealed Waste Collection Points must have a level and solid (Max. 2% slope) concrete pad. The concrete pad
+should extend a minimum of 1.5 metres in length outside of the collection point to accommodate the front wheels of
+the waste collection vehicle. All Concealed Waste Collection Point specifications can be found in section 4.1
+
+
+                                                    REGION OF PEEL WASTE COLLECTION
+                                                           STANDARDS MANUAL
+
+Page #37
+
+APPENDIX 10: ACKNOWLEDGEMENT AND RELEASE FORM FOR
+PRIVATE PROPERTY WASTE COLLECTION
+
+Acknowledgement and Release for Private
+Property Waste Collection
+ New Submission
+
+ Renewal
+
+1. In consideration of the Regional Municipality of Peel (hereinafter the "Region") providing a waste collection
+
+service, __________________
+
+(hereinafter the "Owner") being the registered Owner of
+
+(hereinafter the "Lands") shall:
+
+a. Permit the Region and its employees, Contractors and authorized agents entry onto the land for purposes of providing waste
+collection; and
+
+b. Release, save harmless and indemnify the Region from all actions, causes of actions, damages, liability, fines, proceedings,
+claims and demands arising as a result of the Region and its employees, contractors and authorized agents utilizing the Lands,
+including but not limited to, the driveway, ramp, loading and parking areas of the Lands for purposes of providing waste collection save
+and except any claims or damages attributable to the negligence of the Region or those for whom it is in law responsible.
+
+2. It is herein acknowledged by the Owner that the Region's Waste Collection from the lands is conditional on:
+
+a. The Owner providing free and clear access to a collection point determined satisfactory by the Region's Commissioner of Public
+Works for these purposes. The Owner's proposed route of access for collection purposes as set out on a plot plan of the building and
+parking lot which is attached hereto;
+
+b. The Owner utilizing Waste containers approved by the Region’s Commissioner of Public Works;
+
+c. The Owner maintaining all compaction equipment containers in good and operable condition including regularly cleaning and sanitizing
+containers;
+
+d. All designated Waste being Set-out for collection in Region approved containers no later than 7:00 a.m. on the designated collection
+day.
+
+V-12-227 2014/08
+
+                                      
+      
+                                                      REGION OF PEEL WASTE COLLECTION
+                                                             STANDARDS MANUAL
+
+
+Page #38
+
+e. The Owner or its agents moving containers during collection if so required. The Region will not be responsible for emptying containers
+that are inaccessible to the Waste Collection Vehicle;
+
+f. The Owner maintaining Concealed Collection Points in a safe, clean, sanitary, odour free and tidy condition, including cleaning and
+sanitizing enclosures on a weekly basis or more frequently as required. Garbage and Recyclable Materials are to be placed in
+appropriate containers. Cardboard is to be broken down and placed within appropriate recycling containers or bundled
+according to the Region's Waste Collection By-law;
+
+g. The Collection Point being signed, kept cleared of snow and de-iced during winter months;
+
+h. The collection enclosure gates must be unlocked, open, and secured by 7:00 a.m. on collection day.
+
+i.Gates should be securely mounted on steel bollards or an approved equal. Gates must include stoppers, a latch and gate wheels, and
+should be designed to prevent sagging.
+
+j.The Collection Point being signed, kept clear of parked vehicles, and bulky items (all as defined in the Region’s Waste Collection Bylaw);
+
+k. The Concealed Collection Point width must be sufficient for the Waste Collection Vehicle to empty and return containers to the
+enclosure without requiring Jockeying of Front-End Bins. In order to accomplish this, a minimum distance of 0.9 meters should be kept
+between the container and enclosure side walls.
+
+l.Bollards or concrete curb should be installed at the rear of the enclosure to protect the enclosure wall from damage when containers are
+picked up or returned in place by the Waste Collection Vehicle.
+
+m. The Owner notifying and obtaining approval from the Region prior to making any changes that will affect waste collection including
+but not limited to moving or making changes to Collection Points and adding or changing Carts;
+
+n. The Owner ensuring that all tenants or unit owners have equally convenient and safe access to Recycling and Garbage
+Receptacles and/or systems;
+o. The Owner conducting daily examination of Recycling and Garbage 
+
+Receptacles to:
+
+i. correct and/or prevent overflow problems; (i.e. Garbage
+
+and/or Bulky Items)
+
+ii. to remove contaminants from Recycling Receptacles
+
+iii. to correct and/or prevent Recyclable Materials from being mixed with Garbage.
+
+V-12-227 2014/08
+
+
+
+                                                         REGION OF PEEL WASTE COLLECTION
+                                                                STANDARDS MANUAL
+
+
+Page #39
+
+p. The Owner attaching and maintaining labels provided by the Region to Recycling Receptacles;
+
+q. The Owner placing and maintaining information posters provided by the Region describing the Region’s Garbage and recycling
+program in common areas, including chute rooms, drop-off locations, lobby, mail room and laundry room of the complex;
+r. The Owner distributing reusable recycling bags provided by the Region to all tenants or unit owners and contacting the Region for
+replacements as required;
+
+s. The Owner notifying tenants or unit owners, in writing, of the current recycling program within the complex. Notice must be
+kept up to date, redistributed regularly and be provided to all new tenants or unit owners; and, the Owner including the requirement to
+recycle in all tenant leases or condominium packages.
+
+3. The Owner further acknowledges the Region's Waste Collection service is limited to:
+
+a. Waste Collection service on such days as designated by the Region's Commissioner of Public Works;
+
+b. Garbage, Recyclable Materials, Source Separated Organics, Yard Waste And Bulky Items (all as defined in the Region's Waste
+Collection By-law) , as designated by the Region's Commissioner of Public Works;
+
+4. The Owner further acknowledges that the Region shall not collect Garbage generated from building renovations, apartment fires and parking lot
+sweepings. All materials to be collected must be in accordance with the Region's Waste Collection By-law.
+
+5. This Agreement may be terminated immediately by the Region, upon the Owner failing to perform or comply with any of the conditions or
+restrictions as provided for herein. If any of the conditions or restrictions are not complied with, the Region shall not be required to provide waste
+collection to the Owner. The Region shall send a notice of termination to the Owner within 48 hours of the termination of the Agreement. The
+Owner hereby agrees that they shall not make any claims or demands for costs or damages as a result of the termination.
+
+6. The Owner may terminate this Agreement upon providing the Region with 60 days written notice of termination.
+
+7. Any notice which the Region or the Owner is required to give pursuant to this Agreement shall be given at:
+
+Owner ____________________________________________________________________________________________
+
+Region:
+
+The Regional Municipality of Peel
+Commissioner of Public Works
+10 Peel Centre Drive, Suite A
+Brampton, Ontario L6T 4B9
+V-12-227 2014/08
+
+                                                           REGION OF PEEL WASTE COLLECTION
+                                                                  STANDARDS MANUAL
+
+
+
+Page #40
+
+APPENDIX 13: SAMPLE DRAWING OF A STACKED TOWNHOUSE SITE
+PLAN THAT MEETS WASTE COLLECTION REQUIREMENTS
+
+This Site Plan is an excellent example that meets all Waste Collection standards for Stacked Townhouse
+Developments. The Waste Collection Vehicle route with the Turning Radius is clearly shown on the Site Plan.
+A centralized Concealed Collection Point has been designed in accordance with this manual.
+Concealed Collection Point
+Turning Radius labelled
+
+For Garbage and Recycling collected outdoors, a Set-out area comprised of a
+level and solid (Max. 2% slope) concrete pad is provided. A minimum of 18
+metres of straight head-on approach to the Collection Point is also provided.
+Note:
+Drawings are not to scale.
+
+
+
+                                                           REGION OF PEEL WASTE COLLECTION
+                                                                  STANDARDS MANUAL
+
+
+
+Page #41
+
+Road width labelled
+
+APPENDIX 13: SAMPLE DRAWING OF A STACKED TOWNHOUSE SITE
+PLAN THAT MEETS WASTE COLLECTION REQUIREMENTS
+Furthermore, the ground floor plan of the centralized Concealed Collection Point provides the correct number,
+type and size of Garbage and Recycling Receptacles required for the number of Dwelling Units in the
+Development. The Compactor is also clearly shown on the ground floor plan.
+Sufficient space (a minimum of 10
+square metres) is provided for the
+storage of Bulky Items
+
+Size and type of Garbage and
+Recycling Receptacles labelled
+
+Compactor
+
+Waste Building Ground Floor Plan
+
+Chutes
+
+Front Elevation
+Note:
+Drawings are not to scale.
+
+
+                                                           REGION OF PEEL WASTE COLLECTION
+                                                                  STANDARDS MANUAL
+
+
+
+Page #42
+
+APPENDIX 14: SAMPLE DRAWING OF A MULTI-RESIDENTIAL SITE
+PLAN THAT MEETS WASTE COLLECTION REQUIREMENTS (INDOOR
+WASTE STORAGE ROOM AND CONCEALED COLLECTION POINT)
+
+This Site Plan satisfies all the Waste Collection requirements for a Multi-Residential Complex Development
+comprising a 4 story Multi-Residential Complex with 80 Dwelling Units. The Development provides an indoor
+Waste Storage Room and a Concealed Collection Point for collection. The vehicle access route, turning
+movements and road width are consistently labelled and displayed on the Site Plan drawing.
+Collection Point
+Turning Radius of 13 m
+
+Waste Collection Vehicle route labelled
+
+A minimum of 18 metre straight head-on approach to the
+Collection Point is provided. A detailed drawing is also
+provided displaying the number, size and type of
+receptacles in the Concealed Collection Point.
+
+Outside gates on the Concealed Collection Point
+swings open 135 degrees
+Note:
+Drawings are not to scale.
+
+
+                                                           REGION OF PEEL WASTE COLLECTION
+                                                                  STANDARDS MANUAL
+
+
+
+Page #43
+
+APPENDIX 15: SAMPLE DRAWING OF A MULTI-RESIDENTIAL SITE
+PLAN THAT MEETS WASTE COLLECTION REQUIREMENTS (INDOOR
+WASTE STORAGE ROOM AND INDOOR COLLECTION POINT)
+
+This Site Plan also provides an excellent example of an indoor Waste Storage Room (in the underground
+parking lot) by clearly identifying the type of chute system (bi-sorter) and the number of Garbage and
+Recycling Receptacles required.
+Bi-sorter chute
+system
+Compactor
+
+Bulky Item storage
+(minimum of 10 sq. m)
+m)
+
+In addition, detailed
+Waste Collection notes
+are provided by the
+Developer for
+clarifications.
+
+Note:
+Drawings are not to scale.
+
+
+                                                           REGION OF PEEL WASTE COLLECTION
+                                                                  STANDARDS MANUAL
+
+
+Page #44
+
+APPENDIX 15: SAMPLE DRAWING OF A MULTI-RESIDENTIAL SITE
+PLAN THAT MEETS WASTE COLLECTION REQUIREMENTS (INDOOR
+WASTE STORAGE ROOM AND INDOOR COLLECTION POINT)
+
+This Mixed Use Development (comprised of 28 stories and 223 total Residential Units) provides an excellent
+example of Waste Storage Room and Indoor Collection Point as specified in Section 4.1.2 Waste Storage and
+Indoor Collection Point Requirements.
+
+Waste Collection Vehicle
+access route with Turning
+Radius labelled. A18 m
+head-on approach to the
+Collection Point is
+provided.
+
+
+
+                                                               REGION OF PEEL WASTE COLLECTION
+                                                                      STANDARDS MANUAL
+
+
+Page #45
+
+Indoor Collection Point
+comprised of a concrete
+floor and an overhead door.
+
+Indoor waste storage room displays the number, type and
+size of Front-End Bins (five 3-cubic yard bins for Garbage
+and Recycling each) required for Residential Waste. In
+addition, sufficient space (10 sq. m) is also provided for the
+storage of Bulky Items. A tri-sorting chute system with a
+Compactor is also shown.
+
+
+
+In addition, further supplementary notes are provided for Waste Management addressing all the requirements
+such as overhead clearance (7.2), Recyclable Materials are not to be compacted (7.5), Separation of Residential
+and Non-Residential Waste (7.6-7.10) and the use of a tri-sorter chute system (7.11).
+
+
+
+
+
