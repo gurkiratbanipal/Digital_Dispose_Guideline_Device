@@ -27,8 +27,8 @@ void *threadFunction1(void *value)
 	    myfile.close();
 	  }
 
-	  else cout << "Unable to open garbage book";
-
+	  else 
+		  cout << "Unable to open garbage book";
 }
 
 void *threadFunction2(void *value)
@@ -211,34 +211,6 @@ void *threadFunction2(void *value)
 	  		cout << "You was supposed to write Black, Blue or Green"<< endl;
 	  		cout << "Correct answer is Blue Bin"<< endl;
 	  	}
-
-
-}
-
-int main()
-{
-	
-    pthread_t thread;
-
-    if(pthread_create(&thread, NULL, &threadFunction1, NULL)!=0)
-
-    {
-        	cout<<"Failed to create the thread";
-        	return 1;
-    }
-
-	
-    if(pthread_create(&thread, NULL, &threadFunction2, NULL)!=0)
-
-    {
-        	cout<<"Failed to create the thread";
-        	return 1;
-    }
-	
-	string response;
-
-	 cout <<"LETS SEE HOW MUCH YOU KNOW ABOUT GARBAGE DISPOSING..."<< endl<< endl;
-
 //QUESTION#8//
 
 	cout<< endl;
@@ -469,6 +441,29 @@ int main()
 		cout << "NO! Correct answer is Black Bin"<< endl;
 	}
 
+}
+
+int main()
+{
+	
+    pthread_t thread;
+
+    if(pthread_create(&thread, NULL, &threadFunction1, NULL)!=0)
+
+    {
+        	cout<<"Failed to create the thread";
+        	return 1;
+    }
+
+	
+    if(pthread_create(&thread, NULL, &threadFunction2, NULL)!=0)
+
+    {
+        	cout<<"Failed to create the thread";
+        	return 1;
+    }
+
+ cout <<"LETS SEE HOW MUCH YOU KNOW ABOUT GARBAGE DISPOSING..."<< endl<< endl;
 
  	return 0;
 }
