@@ -33,6 +33,7 @@ void *threadFunction1(void *value)
 
 void *threadFunction2(void *value)
 {
+   string response;
 //QUESTION#1//
 
 	 cout<< endl;
