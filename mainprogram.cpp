@@ -15,10 +15,13 @@ using namespace std;
 
 void *threadFunction1(void *value)
 {
-	int *x = (int *)value;
 	cout<< "implementing pthreads.......";
 }
 
+void *threadFunction2(void *value)
+{
+ cout<<"M i working?";
+}
 
 int main()
 {
@@ -33,9 +36,13 @@ int main()
     }
 
 	
-	cout << "Garbage book" << endl;
-	cout << "All text....." << endl<< endl<< endl;
+    if(pthread_create(&thread, NULL, &threadFunction2, NULL)!=0)
 
+    {
+        	printf("Failed to create the thread\n");
+        	return 1;
+    }
+	
 	string response;
 
 	 cout <<"LETS SEE HOW MUCH YOU KNOW ABOUT GARBAGE DISPOSING..."<< endl<< endl;
