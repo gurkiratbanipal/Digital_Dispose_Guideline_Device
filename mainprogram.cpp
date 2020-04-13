@@ -4,6 +4,7 @@
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Smart Trash Guidelines
+// pthreads help taken from derek molly and prof.takis 
 //============================================================================
 
 #include <fstream>
@@ -32,33 +33,6 @@ void *threadFunction1(void *value)
 
 void *threadFunction2(void *value)
 {
- cout<<"M i working?";
-}
-
-int main()
-{
-	
-    pthread_t thread;
-
-    if(pthread_create(&thread, NULL, &threadFunction1, NULL)!=0)
-
-    {
-        	printf("Failed to create the thread\n");
-        	return 1;
-    }
-
-	
-    if(pthread_create(&thread, NULL, &threadFunction2, NULL)!=0)
-
-    {
-        	printf("Failed to create the thread\n");
-        	return 1;
-    }
-	
-	string response;
-
-	 cout <<"LETS SEE HOW MUCH YOU KNOW ABOUT GARBAGE DISPOSING..."<< endl<< endl;
-
 //QUESTION#1//
 
 	 cout<< endl;
@@ -237,6 +211,33 @@ int main()
 	  		cout << "You was supposed to write Black, Blue or Green"<< endl;
 	  		cout << "Correct answer is Blue Bin"<< endl;
 	  	}
+
+
+}
+
+int main()
+{
+	
+    pthread_t thread;
+
+    if(pthread_create(&thread, NULL, &threadFunction1, NULL)!=0)
+
+    {
+        	cout<<"Failed to create the thread";
+        	return 1;
+    }
+
+	
+    if(pthread_create(&thread, NULL, &threadFunction2, NULL)!=0)
+
+    {
+        	cout<<"Failed to create the thread";
+        	return 1;
+    }
+	
+	string response;
+
+	 cout <<"LETS SEE HOW MUCH YOU KNOW ABOUT GARBAGE DISPOSING..."<< endl<< endl;
 
 //QUESTION#8//
 
