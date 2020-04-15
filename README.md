@@ -1,4 +1,5 @@
-# Smart_trash_guidelines_device
+# Digital_Dispose_Guidline_Device
+
 
 The idea behind making this device is to upgrade the old style trash guidelines paper book to a smart device.
 
