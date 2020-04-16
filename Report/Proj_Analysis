@@ -7,3 +7,8 @@ So, this thing took us to the decision that our project will have touch screen d
 touch screen lead us making this device eye-catching by using two 7” HDMI touch Displays and bind them together so that 
 it will look like a book.Because the outer appearance is the first thing which mesmerize the user to reach an item for
 exploring further.
+
+In addition to this, we have searched about the latest MCU that have all the powerful features like modern computers. 
+Raspberry Pi 4 was the best option among all others. This Board have two inbuilt HDMI ports for connecting two output 
+devices parallelly. Last but not the least, our MCU and output displays are going to take power input from rechargeable 
+battery, that will make it portable.
