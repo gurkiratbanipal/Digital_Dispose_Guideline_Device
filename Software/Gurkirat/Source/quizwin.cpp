@@ -175,3 +175,46 @@ void QuizWin::on_pushButton_8_clicked()
         }
 }
 
+void QuizWin::on_pushButton_9_clicked()
+{
+    if(ui->checkBox_26->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_25->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_27->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_10_clicked()
+{
+    if(ui->checkBox_28->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+             QMessageBox::information(this,"Answer","Don't forget to remove battries from your remote control");
+        }
+        else if(ui->checkBox_29->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+             QMessageBox::information(this,"Answer","Don't forget to remove battries from your remote control");
+       }
+        else if(ui->checkBox_30->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+          QMessageBox::information(this,"Answer","Don't forget to remove battries from your remote control");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
