@@ -94,3 +94,83 @@ void QuizWin::on_pushButton_4_clicked()
         QMessageBox::information(this,"Answer","Please select one checkbox");
     }
 }
+
+void QuizWin::on_pushButton_5_clicked()
+{
+    if(ui->checkBox_14->isChecked())
+        {
+            QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_13->isChecked())
+        {
+            QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_15->isChecked())
+        {
+            QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+            QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_6_clicked()
+{
+    if(ui->checkBox_16->isChecked())
+        {
+            QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_17->isChecked())
+        {
+            QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_18->isChecked())
+        {
+            QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+            QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_7_clicked()
+{
+    if(ui->checkBox_19->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_20->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_21->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_8_clicked()
+{
+    if(ui->checkBox_23->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_22->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_24->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
