@@ -218,3 +218,43 @@ void QuizWin::on_pushButton_10_clicked()
         }
 }
 
+void QuizWin::on_pushButton_11_clicked()
+{
+    if(ui->checkBox_33->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_32->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_31->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_12_clicked()
+{
+    if(ui->checkBox_34->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_35->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_36->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
