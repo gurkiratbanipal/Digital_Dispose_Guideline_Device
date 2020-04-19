@@ -2,6 +2,7 @@
 #include "ui_calnwin.h"
 #include "scarcal.h"
 #include "bramcal.h"
+#include "toroncal.h"
 #include <QLabel>
 
 CalnWin::CalnWin(QWidget *parent) :
@@ -14,6 +15,13 @@ CalnWin::CalnWin(QWidget *parent) :
 CalnWin::~CalnWin()
 {
     delete ui;
+}
+
+void CalnWin::on_pushButton_clicked()
+{
+    toroncal tronpic;
+    tronpic.setModal(true);
+    tronpic.exec();
 }
 
 void CalnWin::on_pushButton_6_clicked()
