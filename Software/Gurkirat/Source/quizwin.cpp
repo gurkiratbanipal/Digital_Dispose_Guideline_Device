@@ -258,3 +258,68 @@ void QuizWin::on_pushButton_12_clicked()
         }
 }
 
+void QuizWin::on_pushButton_13_clicked()
+{
+    if(ui->checkBox_39->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_38->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_37->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_14_clicked()
+{
+    if(ui->checkBox_42->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+               QMessageBox::information(this,"Answer","Yes, this item is Household Hazardous Waste(HHW).");
+                 QMessageBox::information(this,"Answer","You have to drop-off this at Drop-off Depots. ");
+        }
+        else if(ui->checkBox_40->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+             QMessageBox::information(this,"Answer","This item is Household Hazardous Waste(HHW).");
+               QMessageBox::information(this,"Answer","You have to drop-off this at Drop-off Depots. ");
+        }
+        else if(ui->checkBox_41->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+          QMessageBox::information(this,"Answer","This item is Household Hazardous Waste(HHW).");
+            QMessageBox::information(this,"Answer","You have to drop-off this at Drop-off Depots. ");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_15_clicked()
+{
+    if(ui->checkBox_43->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_44->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_45->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
