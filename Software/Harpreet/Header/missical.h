@@ -1,18 +1,23 @@
-#include "missical.h"
-#include "ui_missical.h"
-#include <QPixmap>
+#ifndef MISSICAL_H
+#define MISSICAL_H
+
+#include <QDialog>
 #include <QLabel>
 
-Missical::Missical(QWidget *parent) :
-    QDialog(parent),
-    ui(new Ui::Missical)
-{
-    ui->setupUi(this);
-    QPixmap pix("/home/pi/Downloads/Burlington.png");
-    ui->label->setPixmap(pix.scaled(4000,4000,Qt::KeepAspectRatio));
+namespace Ui {
+class Missical;
 }
 
-Missical::~Missical()
+class Missical : public QDialog
 {
-    delete ui;
-}
+    Q_OBJECT
+
+public:
+    explicit Missical(QWidget *parent = nullptr);
+    ~Missical();
+
+private:
+    Ui::Missical *ui;
+};
+
+#endif // MISSICAL_H
