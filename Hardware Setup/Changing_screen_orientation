@@ -1,0 +1,22 @@
+There are many ways to rotate RaspberryPi output screens using xrandr command, screen configuration and by editing 
+the boot configuration file and we have tried and successfully implemented.
+
+By writing following commands in terminal of Rarspberry Pi-
+	
+	DISPLAY=:0 xrandr --output HDMI-1 --rotate right
+ 	DISPLAY=:0 xrandr --output HDMI-2 --rotate right
+
+By Editing boot configuration file-
+	
+	sudo nano /boot/config.txt
+		display_hdmi-1_rotate=0	
+		display_hdmi-2_rotate=0
+
+Using Screen Configuraion-
+	-Click the Pi icon
+	-Go to Preferences
+	-Click on screen Configuration
+	-Go to Configure and then screens->HDMI1/2
+	-Orientation->Right 
+	-Lastly click on Apply changes.
+  
