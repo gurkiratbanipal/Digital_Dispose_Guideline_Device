@@ -323,3 +323,89 @@ void QuizWin::on_pushButton_15_clicked()
              QMessageBox::information(this,"Answer","Please select one checkbox");
         }
 }
+
+void QuizWin::on_pushButton_16_clicked()
+{
+    if(ui->checkBox_46->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_47->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_48->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_17_clicked()
+{
+    if(ui->checkBox_51->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+               QMessageBox::information(this,"Answer","Yes, this item is Household Hazardous Waste(HHW).");
+                 QMessageBox::information(this,"Answer","You have to drop-off this at Drop-off Depots. ");
+        }
+        else if(ui->checkBox_50->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+             QMessageBox::information(this,"Answer","This item is Household Hazardous Waste(HHW).");
+               QMessageBox::information(this,"Answer","You have to drop-off this at Drop-off Depots. ");
+        }
+        else if(ui->checkBox_49->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+          QMessageBox::information(this,"Answer","This item is Household Hazardous Waste(HHW).");
+            QMessageBox::information(this,"Answer","You have to drop-off this at Drop-off Depots. ");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_18_clicked()
+{
+    if(ui->checkBox_52->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_53->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_54->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_19_clicked()
+{
+    if(ui->checkBox_56->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_55->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_57->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
