@@ -37,4 +37,23 @@ void CalnWin::on_pushButton_2_clicked()
    brampic.setModal(true);
    brampic.exec();
 }
+void CalnWin::on_pushButton_3_clicked()
+{
+    Missical misspic;
+    misspic.setModal(true);
+    misspic.exec();
+}
 
+void CalnWin::on_pushButton_5_clicked()
+{
+    norykcal norypic;
+    norypic.setModal(true);
+    norypic.exec();
+}
+
+void CalnWin::on_pushButton_4_clicked()
+{
+    HaltonCal haltonpic;
+    haltonpic.setModal(true);
+    haltonpic.exec();
+}
