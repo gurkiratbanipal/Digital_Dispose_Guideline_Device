@@ -409,3 +409,90 @@ void QuizWin::on_pushButton_19_clicked()
              QMessageBox::information(this,"Answer","Please select one checkbox");
         }
 }
+
+void QuizWin::on_pushButton_20_clicked()
+{
+    if(ui->checkBox_59->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_58->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_60->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_21_clicked()
+{
+    if(ui->checkBox_61->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_62->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_63->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_22_clicked()
+{
+    if(ui->checkBox_66->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+               QMessageBox::information(this,"Answer","Yes, this item is Household Hazardous Waste(HHW).");
+                 QMessageBox::information(this,"Answer","You have to drop-off this at Drop-off Depots. ");
+        }
+        else if(ui->checkBox_64->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+             QMessageBox::information(this,"Answer","This item is Household Hazardous Waste(HHW).");
+               QMessageBox::information(this,"Answer","You have to drop-off this at Drop-off Depots. ");
+        }
+        else if(ui->checkBox_65->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+          QMessageBox::information(this,"Answer","This item is Household Hazardous Waste(HHW).");
+            QMessageBox::information(this,"Answer","You have to drop-off this at Drop-off Depots. ");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }
+}
+
+void QuizWin::on_pushButton_23_clicked()
+{
+    if(ui->checkBox_68->isChecked())
+        {
+             QMessageBox::information(this,"Answer","Yes!! You are Correct");
+        }
+        else if(ui->checkBox_67->isChecked())
+        {
+             QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else if(ui->checkBox_69->isChecked())
+        {
+          QMessageBox::information(this,"Answer","NO!! You are wrong");
+        }
+        else
+        {
+             QMessageBox::information(this,"Answer","Please select one checkbox");
+        }    
+}
+
