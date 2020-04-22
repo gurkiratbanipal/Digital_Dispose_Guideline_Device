@@ -1,0 +1,18 @@
+#autostart
+
+When whole program is ready our next goal is to make the program to execute automatically whenever raspberry boots up.
+To do this we first made one file which will execute our diffrent source and header files.
+Next, this file was moved to root directory of raspberry pi 4.
+
+Then, browse to directory:
+/home/pi/.config/lxsession/LXDE-pi
+
+created a file "autostart"
+
+Added this data into it-
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+@xscreensaver -no-splash
+@point-rpi
+
+@/home/pi/DigDisGUI       // Location of file to be executed
