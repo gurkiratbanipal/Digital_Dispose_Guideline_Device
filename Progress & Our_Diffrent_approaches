@@ -1,0 +1,23 @@
+Our plan after deciding to use two screens was to display book manual on one screen and display 2-3 diffrent options
+on the second screen from which user can select one and go on with whatever user select.
+
+Three options we decided were:
+1. Calender for waste collection
+2. Quiz
+3. Mobile texting
+
+
+So, when we started working on the software for the project,
+Our first aproach was use of Visual studio C# application
+We worked for around 2 weeks on it but as the program was builting in c sharp language we drop off the idea.
+
+Our second approach was using eclipse and using crosstoolchain 
+We worked approximately 2 weeks on this.
+But we faced few problems in using this method like we needed a keyboard while output.
+Also, output was not graphical.
+
+Then we approached QT
+We worked for around 3 weeks on this approach.
+Through this we got output on both the screens as we had planned.
+We successfully displayed book manual on one screen and few diffrent options on the second screen from which
+user can select whichever user wants to open.
