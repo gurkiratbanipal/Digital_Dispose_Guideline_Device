@@ -9,6 +9,8 @@ Bramcal::Bramcal(QWidget *parent) :
     ui(new Ui::Bramcal)
 {
     ui->setupUi(this);
+    QPixmap pix("/home/pi/Downloads/FinalQT/Brampton.png");
+    ui->label->setPixmap(pix.scaled(1250,1100,Qt::KeepAspectRatio));
 }
 
 Bramcal::~Bramcal()
