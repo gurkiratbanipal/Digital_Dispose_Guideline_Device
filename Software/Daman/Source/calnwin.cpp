@@ -57,3 +57,16 @@ void CalnWin::on_pushButton_4_clicked()
     haltonpic.setModal(true);
     haltonpic.exec();
 }
+
+void CalnWin::on_pushButton_10_clicked()
+{
+    HoliDays holidayspic;
+    holidayspic.setModal(true);
+    holidayspic.exec();
+}
+
+void CalnWin::on_pushButton_9_clicked()
+{
+    QDesktopServices::openUrl(QUrl("https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/collection-schedule/", QUrl::TolerantMode));
+}
+
