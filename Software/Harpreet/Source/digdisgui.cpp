@@ -51,6 +51,11 @@ void DigDisGUI::on_pushButton_5_clicked()
 {
     close();
 }
+void DigDisGUI::on_pushButton_6_clicked()
+{
+    QDesktopServices::openUrl(QUrl("https://www.vonage.com/communications-apis/", QUrl::TolerantMode));
+}
+
 
 
 
