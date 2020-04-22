@@ -1,1 +1,19 @@
+We can pre-schedule the messages that will be send on specific days automatcally.
 
+There are so many platforms provide thses API services to users.
+
+We used Vonage which was known as Nexmo before.
+
+After installing 'curl' on our machine. we just need to write the following command(sudo apt install curl)
+
+curl -X POST  https://rest.nexmo.com/sms/json \
+
+-d api_key=......\
+
+-d api_secret= 	........\		#key and secret are given to user after signup on their website
+
+-d to=123456789 \           #phone number where the messahe to be sent
+
+-d from=14037741329 \	      #number provided by Vinage
+
+-d text="Type your message here"
