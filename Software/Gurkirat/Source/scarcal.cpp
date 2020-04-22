@@ -9,6 +9,8 @@ Scarcal::Scarcal(QWidget *parent) :
     ui(new Ui::Scarcal)
 {
     ui->setupUi(this);
+    QPixmap pix("/home/pi/Downloads/FinalQT/peterborough.png");
+    ui->imageLabel->setPixmap(pix.scaled(1250,1100,Qt::KeepAspectRatio));
 }
 
 Scarcal::~Scarcal()
