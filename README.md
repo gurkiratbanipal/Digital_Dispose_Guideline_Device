@@ -1,5 +1,6 @@
 # Digital_Dispose_Guidline_Device
 
+Link to final project video: https://youtu.be/uOWWGjMI1OM 
 
 The idea behind making this device is to upgrade the old style trash guidelines paper book to a smart device.
 
