@@ -7,7 +7,6 @@ The idea behind making this device is to upgrade the old style trash guidelines 
 As everything today is transferring to digital, so we planned to change that old style paper trash guideline book to a digital 
 device. This device will look like a book, but rather that pages, it will have two 7 inches touch screens that will let user 
 to interact with device.
-![](README.png)
 ![](https://github.com/gurkiratbanipal/Digital_Dispose_Guideline_Device/blob/master/Pics_and_video_of_complete_project/Final_proj_running.jpg)
 
 We will use raspberry pi 4 as a processor and battery to make this device portable. This device will consist of two sections, 
