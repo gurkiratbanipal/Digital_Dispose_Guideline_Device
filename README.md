@@ -1,4 +1,6 @@
 # Digital_Dispose_Guidline_Device
+![](LOGO.png)
+
 
 Link to final project video: https://youtu.be/uOWWGjMI1OM 
 
