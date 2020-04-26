@@ -3,7 +3,13 @@
 #include "scarcal.h"
 #include "bramcal.h"
 #include "toroncal.h"
+#include "missical.h"
+#include "haltoncal.h"
+#include "norykcal.h"
+#include "holidays.h"
 #include <QLabel>
+#include <QUrl>
+#include <QDesktopServices>
 
 CalnWin::CalnWin(QWidget *parent) :
     QDialog(parent),
