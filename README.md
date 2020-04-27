@@ -2,7 +2,7 @@
 ![](LOGO.png)
 
 
-Link to final project video: https://youtu.be/uOWWGjMI1OM 
+Link to final project video: https://youtu.be/bvdK3UlmDCE 
 
 The idea behind making this device is to upgrade the old style trash guidelines paper book to a smart device.
 
