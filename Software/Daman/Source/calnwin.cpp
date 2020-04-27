@@ -16,12 +16,30 @@ CalnWin::CalnWin(QWidget *parent) :
     ui(new Ui::CalnWin)
 {
     ui->setupUi(this);
+    clock = new QTimer(this);
+    connect(clock, SIGNAL(timeout()),this,SLOT(currentClock()));
+    clock->start(1000);
 }
 
 CalnWin::~CalnWin()
 {
     delete ui;
 }
+
+void CalnWin::currentClock()
+{
+    QTime clock = QTime::currentTime();
+    QString update_time = clock.toString("hh : mm : ss");
+
+    if ((clock.second() % 2) == 0)
+
+    {
+        update_time[3] = ' ';
+        update_time[8] = ' ';
+    }
+    ui->label_Clock->setText(update_time);
+}
+
 
 void CalnWin::on_pushButton_clicked()
 {
