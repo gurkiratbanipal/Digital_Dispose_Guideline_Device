@@ -8,6 +8,9 @@ DigDisGUI::DigDisGUI(QWidget *parent)
     , ui(new Ui::DigDisGUI)
 {
     ui->setupUi(this);
+    QPixmap logo("/home/pi/Downloads/logo.png");
+    ui->Logo->setPixmap(logo.scaled(451,261,Qt::KeepAspectRatio));
+        
     currentTime = new QTimer(this);
     connect(currentTime, SIGNAL(timeout()),this,SLOT(clockUpdate()));
     currentTime->start(1000);
