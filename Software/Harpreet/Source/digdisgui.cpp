@@ -8,6 +8,9 @@ DigDisGUI::DigDisGUI(QWidget *parent)
     , ui(new Ui::DigDisGUI)
 {
     ui->setupUi(this);
+    currentTime = new QTimer(this);
+    connect(currentTime, SIGNAL(timeout()),this,SLOT(clockUpdate()));
+    currentTime->start(1000);
 }
 
 DigDisGUI::~DigDisGUI()
@@ -15,6 +18,12 @@ DigDisGUI::~DigDisGUI()
     delete ui;
 }
 
+void DigDisGUI::clockUpdate()
+{
+    QTime updateTime = QTime::currentTime();
+    QString time_text = updateTime.toString("hh : mm : ss");
+    ui->label_Cdate_Ctime->setText(time_text);
+}
 
 void DigDisGUI::on_pushButton_2_clicked()
 {
