@@ -3,6 +3,10 @@
 #define QUIZWIN_H
 
 #include <QDialog>
+#include <QTimer>
+#include <QDebug>
+#include <QDateTime>
+#include <QString>
 
 namespace Ui {
 class QuizWin;
@@ -15,6 +19,9 @@ class QuizWin : public QDialog
 public:
     explicit QuizWin(QWidget *parent = nullptr);
     ~QuizWin();
+    
+public slots:
+void Dclock();
 
 private slots:
     void on_pushButton_clicked();
@@ -62,6 +69,7 @@ private slots:
 
 private:
     Ui::QuizWin *ui;
+     QTimer *DigitalClock;
 };
 
 #endif // QUIZWIN_H
