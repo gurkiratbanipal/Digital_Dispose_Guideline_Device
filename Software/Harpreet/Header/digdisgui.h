@@ -3,6 +3,10 @@
 #define DIGDISGUI_H
 
 #include <QMainWindow>
+#include <QTimer>
+#include <QDebug>
+#include <QDateTime>
+#include <QString>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class DigDisGUI; }
@@ -15,6 +19,9 @@ class DigDisGUI : public QMainWindow
 public:
     DigDisGUI(QWidget *parent = nullptr);
     ~DigDisGUI();
+    
+public slots:
+    void clockUpdate();
 
 private slots:
     void on_pushButton_2_clicked();
@@ -31,5 +38,6 @@ private slots:
 
 private:
     Ui::DigDisGUI *ui;
+    QTimer *currentTime;
 };
 #endif // DIGDISGUI_H
