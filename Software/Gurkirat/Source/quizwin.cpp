@@ -8,11 +8,28 @@ QuizWin::QuizWin(QWidget *parent) :
     ui(new Ui::QuizWin)
 {
     ui->setupUi(this);
+    DigitalClock = new QTimer(this);
+    connect(DigitalClock, SIGNAL(timeout()),this,SLOT(Dclock()));
+    DigitalClock->start(1000)
 }
 
 QuizWin::~QuizWin()
 {
     delete ui;
+}
+
+void QuizWin::Dclock()
+{
+    QTime DigitalClock = QTime::currentTime();
+    QString showTime = DigitalClock.toString("hh : mm : ss");
+
+    if ((DigitalClock.second() % 2) == 0)
+
+    {
+        showTime[3] = ' ';
+        showTime[8] = ' ';
+    }
+    ui->date_time->setText(showTime);
 }
 
 void QuizWin::on_pushButton_clicked()
