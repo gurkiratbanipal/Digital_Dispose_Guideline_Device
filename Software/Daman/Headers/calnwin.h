@@ -2,6 +2,10 @@
 #define CALNWIN_H
 
 #include <QDialog>
+#include <QTimer>
+#include <QDebug>
+#include <QDateTime>
+#include <QString>
 
 namespace Ui {
 class CalnWin;
@@ -14,6 +18,9 @@ class CalnWin : public QDialog
 public:
     explicit CalnWin(QWidget *parent = nullptr);
     ~CalnWin();
+    
+public slots:
+void currentClock();
 
 private slots:
 
@@ -35,6 +42,7 @@ private slots:
     
     private:
     Ui::CalnWin *ui;
+    QTimer *clock;
 };
 
 #endif // CALNWIN_H
